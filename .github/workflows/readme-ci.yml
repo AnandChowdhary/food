@@ -33,4 +33,4 @@ jobs:
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "docs: update food README"
+          commit_message: ":pencil: Update food README"
