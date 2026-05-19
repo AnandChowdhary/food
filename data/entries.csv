@@ -1,0 +1,337 @@
+date,time,datetime,meal,food,grams,kcal,protein_g,fat_g,carbs_g,fiber_g
+2026-04-24,11:12,2026-04-24T11:12+02:00,lunch,tamatar paneer sandwich,500,1130,45.5,46.5,133.5,12.5
+2026-04-24,20:09,2026-04-24T20:09+02:00,breakfast,"Egg, whole, raw",75,107,9.4,7.1,0.5,0
+2026-04-24,20:09,2026-04-24T20:09+02:00,breakfast,"Tomato, raw",61.5,11,0.5,0.1,2.4,0.7
+2026-04-24,20:09,2026-04-24T20:09+02:00,breakfast,"Onion, raw",27.5,11,0.3,0,2.6,0.5
+2026-04-24,20:09,2026-04-24T20:09+02:00,breakfast,"Milk, whole 3.25%",7.5,5,0.2,0.2,0.4,0
+2026-04-24,20:09,2026-04-24T20:09+02:00,breakfast,"Spices, mixed (Indian)",0.3,1,0,0,0.1,0
+2026-04-24,20:09,2026-04-24T20:09+02:00,breakfast,"Butter, salted",2.5,18,0,2,0,0
+2026-04-24,20:09,2026-04-24T20:09+02:00,breakfast,"Coffee, brewed (Jumbo Beste Crema)",60,1,0.2,0,0,0
+2026-04-24,20:09,2026-04-24T20:09+02:00,breakfast,"Milk, whole 3.25%",300,183,9.4,9.8,14.4,0
+2026-04-24,20:17,2026-04-24T20:17+02:00,dinner,"greek yogurt, non-fat",250,148,25.5,1,9,0
+2026-04-24,20:17,2026-04-24T20:17+02:00,dinner,"cucumber, raw",100,15,0.7,0.1,3.6,0.5
+2026-04-25,10:05,2026-04-25T10:05+02:00,breakfast,Latte (whole milk),240,127,6.7,7,10.1,0
+2026-04-25,10:17,2026-04-25T10:17+02:00,lunch,Tomato paneer sandwich (multigrain),55,126,5.5,5,14.3,0
+2026-04-25,10:17,2026-04-25T10:17+02:00,lunch,Kwark strawberry chia dark choc bowl,150,142,13.5,4.5,12,0
+2026-04-25,10:17,2026-04-25T10:17+02:00,lunch,Dum aloo,80,104,2.4,5.6,11.2,0
+2026-04-25,10:17,2026-04-25T10:17+02:00,lunch,Dal chawal,175,254,8.8,5.2,43.8,0
+2026-04-25,14:14,2026-04-25T14:14+02:00,snack,Snickers Protein bar,47,192,10,9,17,0.7
+2026-04-25,14:14,2026-04-25T14:14+02:00,snack,Starbucks Chilled Caffè Latte (no added sugar),220,77,6.2,3.3,7.7,3.3
+2026-04-25,19:50,2026-04-25T19:50+02:00,dinner,falafel (deep-fried),140,466,18.2,25.2,44.8,7
+2026-04-25,19:50,2026-04-25T19:50+02:00,dinner,hummus,90,149,7.2,9,12.6,5.4
+2026-04-25,19:50,2026-04-25T19:50+02:00,dinner,baba ganoush / dip (avg),60,90,1.8,7.8,4.8,1.8
+2026-04-25,19:50,2026-04-25T19:50+02:00,dinner,pita bread,90,248,8.1,1.1,49.5,1.8
+2026-04-25,19:50,2026-04-25T19:50+02:00,dinner,fries (restaurant),100,312,4,15,41,3.5
+2026-04-25,19:50,2026-04-25T19:50+02:00,dinner,mojito,250,240,0,0,25,0
+2026-04-26,12:38,2026-04-26T12:38+02:00,lunch,Latte (whole milk),240,127,6.7,7,10.1,0
+2026-04-26,12:38,2026-04-26T12:38+02:00,lunch,Brioche bread,60,204,5.4,8.4,27,0.9
+2026-04-26,12:38,2026-04-26T12:38+02:00,lunch,"Egg, whole, raw",125,179,15.7,11.9,0.9,0
+2026-04-26,12:38,2026-04-26T12:38+02:00,lunch,Hollandaise sauce,30,180,0.9,19.5,0.1,0
+2026-04-26,12:38,2026-04-26T12:38+02:00,lunch,Mixed greens salad,50,10,0.8,0.1,1.5,0.8
+2026-04-26,12:38,2026-04-26T12:38+02:00,lunch,"Sweet corn, boiled",120,115,4.1,1.8,25.2,2.9
+2026-04-26,12:38,2026-04-26T12:38+02:00,lunch,Potato chips/salted nachos,25,135,1.5,7.5,15,1
+2026-04-26,12:40,2026-04-26T12:40+02:00,lunch,"Mozzarella, fresh",80,224,14.4,17.6,2.4,0
+2026-04-26,18:00,2026-04-26T18:00+02:00,snack,"Ice lolly (fruit, water-based)",75,65,0,0,15.8,0
+2026-04-26,18:00,2026-04-26T18:00+02:00,snack,Lollipop (hard candy),7,27,0,0,6.8,0
+2026-04-27,13:30,2026-04-27T13:30+02:00,lunch,soft taco w/ plant-based pulled + beans (estimate),150,300,13.5,10.5,36,6
+2026-04-27,13:30,2026-04-27T13:30+02:00,lunch,tortilla chips & guac side (estimate),60,168,2.4,9.6,16.8,1.8
+2026-04-27,18:30,2026-04-27T18:30+02:00,snack,"Starbucks pistachio latte/macchiato (tall, whole milk)",355,248,8.9,8.9,35.5,0
+2026-04-27,20:23,2026-04-27T20:23+02:00,dinner,moong dal khichdi (with ghee),400,540,20,12,92,6
+2026-04-27,20:23,2026-04-27T20:23+02:00,dinner,paneer,60,159,11,12.5,0.7,0
+2026-04-27,20:23,2026-04-27T20:23+02:00,dinner,"greek yogurt, 2%",150,110,15,2.9,5.7,0
+2026-04-28,09:28,2026-04-28T09:28+02:00,breakfast,Latte (whole milk),180,95,5,5.2,7.6,0
+2026-04-28,09:28,2026-04-28T09:28+02:00,breakfast,"Egg, whole, raw",7.5,11,0.9,0.7,0.1,0
+2026-04-28,09:28,2026-04-28T09:28+02:00,breakfast,"Milk, whole 3.25%",2.25,1,0.1,0.1,0.1,0
+2026-04-28,10:38,2026-04-28T10:38+02:00,lunch,Sourdough bread,80,216,7.2,1.2,40.8,0
+2026-04-28,10:38,2026-04-28T10:38+02:00,lunch,"Avocado, raw",60,96,1.2,8.8,5.1,0
+2026-04-28,10:38,2026-04-28T10:38+02:00,lunch,hummus,30,50,2.4,3,4.2,1.8
+2026-04-28,10:38,2026-04-28T10:38+02:00,lunch,"Olive oil, extra virgin",5,44,0,5,0,0
+2026-04-28,10:38,2026-04-28T10:38+02:00,lunch,Roasted bell pepper,30,9,0.3,0.1,2.1,0
+2026-04-28,10:38,2026-04-28T10:38+02:00,lunch,"Egg, whole, raw",100,143,12.6,9.5,0.7,0
+2026-04-28,10:38,2026-04-28T10:38+02:00,lunch,Cheddar cheese,15,60,3.5,5,0.5,0
+2026-04-28,10:38,2026-04-28T10:38+02:00,lunch,"Butter, salted",3,22,0,2.4,0,0
+2026-04-28,10:38,2026-04-28T10:38+02:00,lunch,"Pancake, buttermilk whole-wheat (restaurant)",30,72,2.1,2.4,10.5,0
+2026-04-28,10:38,2026-04-28T10:38+02:00,lunch,Maple syrup,5,13,0,0,3.4,0
+2026-04-28,10:38,2026-04-28T10:38+02:00,lunch,Blueberry compote,5,9,0,0,2.2,0
+2026-04-28,11:38,2026-04-28T11:38+02:00,snack,whey isolate protein powder,30,111,27,0.3,1.5,0
+2026-04-28,11:38,2026-04-28T11:38+02:00,snack,"Milk, whole 3.25%",150,92,4.7,4.9,7.2,0
+2026-04-28,11:38,2026-04-28T11:38+02:00,snack,"Strawberry, raw",50,16,0.3,0.1,3.9,1
+2026-04-28,13:05,2026-04-28T13:05+02:00,snack,Latte (whole milk),150,80,4.2,4.3,6.3,0
+2026-04-28,20:38,2026-04-28T20:38+02:00,dinner,Paneer mushroom broccoli tikka w/ mint-coriander yogurt dip (home recipe),380,549,36,39.4,20.2,1.9
+2026-04-29,08:12,2026-04-29T08:12+02:00,snack,Kruidvat 100% Pure Whey strawberry,15,58,11.5,0.5,2,0
+2026-04-29,08:12,2026-04-29T08:12+02:00,snack,"Milk, whole 3.25%",125,76,3.9,4.1,6,0
+2026-04-29,08:12,2026-04-29T08:12+02:00,snack,"strawberries, fresh",37.5,12,0.3,0.1,2.9,0.8
+2026-04-29,13:28,2026-04-29T13:28+02:00,lunch,Mexican paneer burrito (YFL homemade),336,1152,51.1,48,128,15.1
+2026-04-29,13:29,2026-04-29T13:29+02:00,lunch,tortilla chips & guac side (estimate),40,112,1.6,6.4,11.2,1.2
+2026-04-29,16:44,2026-04-29T16:44+02:00,snack,Lay's Bugles cheese,100,522,6,30,56,1.5
+2026-04-29,18:08,2026-04-29T18:08+02:00,dinner,Paneer mushroom broccoli tikka w/ mint-coriander yogurt dip (home recipe),150,217,14.2,15.5,8,0.8
+2026-04-29,18:08,2026-04-29T18:08+02:00,dinner,"Sweet corn, boiled",50,48,1.7,0.8,10.5,1.2
+2026-04-29,18:08,2026-04-29T18:08+02:00,dinner,Mixed greens salad,60,12,0.9,0.1,1.8,0.9
+2026-04-29,18:08,2026-04-29T18:08+02:00,dinner,Creamy yogurt salad dressing (estimate),25,70,1,6.2,2,0
+2026-04-29,21:00,2026-04-29T21:00+02:00,snack,"Milk, whole 3.25%",30,18,0.9,1,1.4,0
+2026-04-29,21:00,2026-04-29T21:00+02:00,snack,Dark chocolate (70%),2,11,0.1,0.8,0.9,0.2
+2026-04-30,06:00,2026-04-30T06:00+02:00,breakfast,Latte (whole milk),240,127,6.7,7,10.1,0
+2026-04-30,10:30,2026-04-30T10:30+02:00,lunch,Kruidvat 100% Pure Whey strawberry,50,195,38.4,1.6,6.7,0
+2026-04-30,10:30,2026-04-30T10:30+02:00,lunch,"Milk, whole 3.25%",225,137,7.1,7.3,10.8,0
+2026-04-30,10:30,2026-04-30T10:30+02:00,lunch,Paneer mushroom broccoli tikka w/ mint-coriander yogurt dip (home recipe),150,217,14.2,15.5,8,0.8
+2026-04-30,10:30,2026-04-30T10:30+02:00,lunch,Mixed greens salad,40,8,0.6,0.1,1.2,0.6
+2026-04-30,11:00,2026-04-30T11:00+02:00,lunch,"Carrot, raw",70,29,0.6,0.1,6.7,2
+2026-04-30,11:00,2026-04-30T11:00+02:00,lunch,hummus,30,50,2.4,3,4.2,1.8
+2026-04-30,14:30,2026-04-30T14:30+02:00,snack,Kruidvat 100% Pure Whey strawberry,30,117,23,1,4,0
+2026-04-30,14:30,2026-04-30T14:30+02:00,snack,"Milk, whole 3.25%",225,137,7.1,7.3,10.8,0
+2026-04-30,14:30,2026-04-30T14:30+02:00,snack,Espresso (single shot),60,2,0.1,0.1,0,0
+2026-04-30,19:04,2026-04-30T19:04+02:00,dinner,Mixed greens salad,50,10,0.8,0.1,1.5,0.8
+2026-04-30,19:04,2026-04-30T19:04+02:00,dinner,"Goat cheese, soft (estimate)",30,109,6.6,9,0.3,0
+2026-04-30,19:04,2026-04-30T19:04+02:00,dinner,"Beetroot, cooked",70,31,1.2,0.1,7,1.4
+2026-04-30,19:04,2026-04-30T19:04+02:00,dinner,Vegetarian lasagna w/ tofu mozzarella and vegetables (estimate),300,450,24,19.5,45,6
+2026-04-30,19:04,2026-04-30T19:04+02:00,snack,Macaroon cookie (estimate),40,160,2,7.2,22,0.8
+2026-04-30,22:00,2026-04-30T22:00+02:00,snack,"Salted popcorn, store-bought bag (estimate)",60,270,4.8,10.8,38.4,7.2
+2026-05-01,11:43,2026-05-01T11:43+02:00,breakfast,Kruidvat 100% Pure Whey strawberry,60,234,46,2,8,0
+2026-05-01,11:43,2026-05-01T11:43+02:00,breakfast,"Milk, whole 3.25%",150,92,4.7,4.9,7.2,0
+2026-05-01,12:18,2026-05-01T12:18+02:00,lunch,Mexican paneer burrito (YFL homemade),140,480,21.3,20,53.3,6.3
+2026-05-01,12:35,2026-05-01T12:35+02:00,lunch,"white rice, cooked",180,234,4.9,0.5,50.4,0.7
+2026-05-01,12:35,2026-05-01T12:35+02:00,lunch,paneer,100,265,18.3,20.8,1.2,0
+2026-05-01,12:35,2026-05-01T12:35+02:00,lunch,Mexican black bean filling (estimate),110,160,8.8,3.3,23.1,7.2
+2026-05-01,12:35,2026-05-01T12:35+02:00,lunch,Corn tomato onion salsa (estimate),120,84,2.6,1.2,17.4,3
+2026-05-01,12:35,2026-05-01T12:35+02:00,lunch,"Avocado, raw",55,88,1.1,8.1,4.7,0
+2026-05-01,15:20,2026-05-01T15:20+02:00,snack,"Apple, raw",91,47,0.3,0.2,12.6,2.2
+2026-05-01,17:53,2026-05-01T17:53+02:00,dinner,Mixed greens salad,50,10,0.8,0.1,1.5,0.8
+2026-05-01,17:53,2026-05-01T17:53+02:00,dinner,"Beetroot, cooked",90,40,1.5,0.2,9,1.8
+2026-05-01,17:53,2026-05-01T17:53+02:00,dinner,"Goat cheese, soft (estimate)",35,127,7.7,10.5,0.3,0
+2026-05-01,17:53,2026-05-01T17:53+02:00,dinner,Walnuts,15,98,2.3,9.8,2.1,1
+2026-05-01,17:53,2026-05-01T17:53+02:00,dinner,"Olive oil, extra virgin",5,44,0,5,0,0
+2026-05-01,21:05,2026-05-01T21:05+02:00,dinner,Vegetarian lasagna w/ tofu mozzarella and vegetables (estimate),175,262,14,11.4,26.2,3.5
+2026-05-02,12:05,2026-05-02T12:05+02:00,brunch,Kruidvat 100% Pure Whey strawberry,40,156,30.7,1.3,5.3,0
+2026-05-02,12:05,2026-05-02T12:05+02:00,brunch,"Milk, whole 3.25%",200,122,6.3,6.5,9.6,0
+2026-05-02,12:05,2026-05-02T12:05+02:00,brunch,Vegetarian lasagna w/ tofu mozzarella and vegetables (estimate),250,375,20,16.2,37.5,5
+2026-05-02,18:29,2026-05-02T18:29+02:00,snack,Sourdough bread,40,108,3.6,0.6,20.4,0
+2026-05-02,18:29,2026-05-02T18:29+02:00,snack,"Goat cheese, soft (estimate)",15,55,3.3,4.5,0.1,0
+2026-05-02,18:29,2026-05-02T18:29+02:00,snack,young Gouda / young cheese (estimate),15,53,3.8,4.2,0.3,0
+2026-05-02,18:29,2026-05-02T18:29+02:00,snack,plain crackers (estimate),35,150,3.1,4.2,24.5,1.1
+2026-05-02,18:29,2026-05-02T18:29+02:00,snack,chipotle creamy dip (estimate),25,62,0.5,5.5,2.5,0.2
+2026-05-02,18:29,2026-05-02T18:29+02:00,snack,green pesto (estimate),10,47,0.5,4.5,0.8,0.2
+2026-05-02,18:29,2026-05-02T18:29+02:00,snack,birthday cake slice (estimate),35,130,1.4,6.3,16.8,0.3
+2026-05-02,18:29,2026-05-02T18:29+02:00,snack,beer lager (estimate),330,142,1.6,0,11.9,0
+2026-05-02,23:58,2026-05-02T23:58+02:00,snack,Protein bar (user-provided macros),100,194,20,0,0,0
+2026-05-03,10:27,2026-05-03T10:27+02:00,breakfast,"Croissant, butter (estimate)",120,487,9.8,25.2,55,3.1
+2026-05-03,10:27,2026-05-03T10:27+02:00,breakfast,"Avocado, raw",60,96,1.2,8.8,5.1,0
+2026-05-03,10:27,2026-05-03T10:27+02:00,breakfast,"Egg, whole, raw",75,107,9.4,7.1,0.5,0
+2026-05-03,10:27,2026-05-03T10:27+02:00,breakfast,"Orange juice, 100% (estimate)",120,54,0.8,0.2,12.5,0.2
+2026-05-03,10:27,2026-05-03T10:27+02:00,breakfast,Latte (whole milk),240,127,6.7,7,10.1,0
+2026-05-03,10:27,2026-05-03T10:27+02:00,breakfast,Chili oil (estimate),5,44,0,5,0,0
+2026-05-03,13:52,2026-05-03T13:52+02:00,lunch,"Paneer paratha, large homemade (estimate)",150,450,16.5,21,48,4.5
+2026-05-03,13:52,2026-05-03T13:52+02:00,lunch,"Aloo paratha, homemade (estimate)",130,338,9.1,11.7,49.4,5.2
+2026-05-03,13:52,2026-05-03T13:52+02:00,lunch,"Butter, salted",25,179,0.2,20.3,0,0
+2026-05-03,20:35,2026-05-03T20:35+02:00,snack,"Cinema popcorn, medium tub (whole portion estimate)",60,360,6,19.2,42,6
+2026-05-03,20:35,2026-05-03T20:35+02:00,snack,Cinema nachos with salsa (whole portion estimate),60,240,3.6,10.8,33,3
+2026-05-03,21:58,2026-05-03T21:58+02:00,snack,Oreo Crunchy Bites Dipped milk chocolate (110g pack),45,226,2.2,10.8,29.7,0.9
+2026-05-04,10:33,2026-05-04T10:33+02:00,breakfast,Kruidvat 100% Pure Whey strawberry,60,234,46,2,8,0
+2026-05-04,10:33,2026-05-04T10:33+02:00,breakfast,"Milk, whole 3.25%",150,92,4.7,4.9,7.2,0
+2026-05-04,12:42,2026-05-04T12:42+02:00,lunch,Small egg & black bean burrito homemade estimate,350,648,27.7,28.6,68.4,10.5
+2026-05-04,20:34,2026-05-04T20:34+02:00,dinner,"white rice, cooked",220,286,5.9,0.7,61.6,0.9
+2026-05-04,20:34,2026-05-04T20:34+02:00,dinner,"tofu, firm",130,187,22.5,11.3,3.6,3
+2026-05-04,20:34,2026-05-04T20:34+02:00,dinner,"Broccoli, cooked",70,24,1.7,0.3,5,2.3
+2026-05-04,20:34,2026-05-04T20:34+02:00,dinner,"Carrot, raw",60,25,0.5,0.1,5.8,1.7
+2026-05-04,20:34,2026-05-04T20:34+02:00,dinner,"Cauliflower, cooked",60,14,1.1,0.3,2.5,1.4
+2026-05-04,20:34,2026-05-04T20:34+02:00,dinner,Soy sauce,10,5,0.8,0.1,0.5,0.1
+2026-05-04,20:34,2026-05-04T20:34+02:00,dinner,Gochujang paste,15,32,0.8,0.2,6.8,0.5
+2026-05-04,20:34,2026-05-04T20:34+02:00,dinner,Date syrup,10,29,0.1,0,7.2,0.1
+2026-05-04,20:34,2026-05-04T20:34+02:00,dinner,"Coconut milk, canned",35,69,0.7,7.3,1,0
+2026-05-04,20:34,2026-05-04T20:34+02:00,dinner,Sesame seeds,8,46,1.4,4,1.9,0.9
+2026-05-05,09:55,2026-05-05T09:55+02:00,breakfast,"Cappuccino (whole milk, home estimate)",150,74,3.9,3.9,5.8,0
+2026-05-05,09:55,2026-05-05T09:55+02:00,breakfast,"Besan chilra with onion, bell pepper, Greek yogurt (home estimate)",20,30,2.1,0.5,4.5,0.8
+2026-05-05,09:55,2026-05-05T09:55+02:00,breakfast,"greek yogurt, non-fat",5,3,0.5,0,0.2,0
+2026-05-05,09:55,2026-05-05T09:55+02:00,breakfast,Kruidvat 100% Pure Whey strawberry,60,234,46,2,8,0
+2026-05-05,09:55,2026-05-05T09:55+02:00,breakfast,"Milk, whole 3.25%",150,92,4.7,4.9,7.2,0
+2026-05-05,14:09,2026-05-05T14:09+02:00,lunch,Small egg & black bean burrito homemade estimate,175,324,13.8,14.3,34.2,5.2
+2026-05-05,14:09,2026-05-05T14:09+02:00,lunch,"Aloo paratha, homemade (estimate)",26,68,1.8,2.3,9.9,1
+2026-05-05,14:13,2026-05-05T14:13+02:00,lunch,Small egg & black bean burrito homemade estimate,175,324,13.8,14.3,34.2,5.2
+2026-05-05,18:15,2026-05-05T18:15+02:00,snack,Salted fried banana chips (South Indian style estimate),50,260,1.1,16,27.5,2.8
+2026-05-05,18:50,2026-05-05T18:50+02:00,dinner,Pumpkin carrot zucchini paprika soup with coconut milk (home estimate),400,220,5.4,11.4,28.4,7.2
+2026-05-05,18:50,2026-05-05T18:50+02:00,dinner,Air-fried tempeh (home estimate),100,192,20.3,10.8,7.6,0
+2026-05-06,10:38,2026-05-06T10:38+02:00,breakfast,Kruidvat 100% Pure Whey strawberry,60,234,46,2,8,0
+2026-05-06,10:38,2026-05-06T10:38+02:00,breakfast,"Milk, whole 3.25%",150,92,4.7,4.9,7.2,0
+2026-05-06,13:02,2026-05-06T13:02+02:00,lunch,Small egg & black bean burrito homemade estimate,350,648,27.7,28.6,68.4,10.5
+2026-05-06,13:02,2026-05-06T13:02+02:00,lunch,"Orange juice, 100% (estimate)",240,108,1.7,0.5,25,0.5
+2026-05-06,16:03,2026-05-06T16:03+02:00,snack,Kruidvat 100% Pure Whey strawberry,30,117,23,1,4,0
+2026-05-06,20:44,2026-05-06T20:44+02:00,dinner,Air-fried tempeh (home estimate),90,173,18.3,9.7,6.8,0
+2026-05-06,20:44,2026-05-06T20:44+02:00,dinner,"Whole wheat noodles, cooked (estimate)",180,284,10.4,1.6,55.6,7.2
+2026-05-06,20:44,2026-05-06T20:44+02:00,dinner,"Coconut milk, canned",75,148,1.5,15.8,2.1,0
+2026-05-06,20:44,2026-05-06T20:44+02:00,dinner,"Mushrooms, raw (estimate)",75,16,2.3,0.2,2.5,0.8
+2026-05-06,20:44,2026-05-06T20:44+02:00,dinner,"Bok choy, cooked/raw (estimate)",100,13,1.5,0.2,2.2,1
+2026-05-06,20:44,2026-05-06T20:44+02:00,dinner,"Onion, raw",50,20,0.6,0.1,4.7,0.8
+2026-05-06,20:44,2026-05-06T20:44+02:00,dinner,"Garlic, raw (estimate)",5,7,0.3,0,1.7,0.1
+2026-05-06,20:44,2026-05-06T20:44+02:00,dinner,Roasted bell pepper,50,16,0.5,0.1,3.5,0
+2026-05-06,20:44,2026-05-06T20:44+02:00,dinner,"Bean sprouts, raw (estimate)",75,22,2.2,0.1,4.4,1.4
+2026-05-06,20:46,2026-05-06T20:46+02:00,dinner,"Olive oil, extra virgin",10.12,90,0,10.1,0,0
+2026-05-07,09:59,2026-05-07T09:59+02:00,snack,Kruidvat 100% Pure Whey strawberry,40,156,30.7,1.3,5.3,0
+2026-05-07,09:59,2026-05-07T09:59+02:00,snack,"Milk, whole 3.25%",15,9,0.5,0.5,0.7,0
+2026-05-07,10:46,2026-05-07T10:46+02:00,snack,Banana,118,105,1.3,0.4,27,3.1
+2026-05-07,10:52,2026-05-07T10:52+02:00,lunch,"Pasta, cooked (estimate)",240,379,13.9,2.2,74.2,4.3
+2026-05-07,10:52,2026-05-07T10:52+02:00,lunch,green pesto (estimate),60,282,3,27,4.8,1.2
+2026-05-07,10:52,2026-05-07T10:52+02:00,lunch,"Parmesan cheese, grated (estimate)",12,52,4.6,3.5,0.5,0
+2026-05-07,13:08,2026-05-07T13:08+02:00,snack,Snickers Hi Protein Low Sugar bar (57g),57,217,20,10,15,0
+2026-05-07,15:23,2026-05-07T15:23+02:00,snack,Doritos Nacho Cheese tortilla chips (estimate),28,150,2,8,17,1
+2026-05-07,16:06,2026-05-07T16:06+02:00,dinner,"white rice, cooked",160,208,4.3,0.5,44.8,0.6
+2026-05-07,16:06,2026-05-07T16:06+02:00,dinner,"chana (chickpeas), cooked",160,262,14.2,4.2,43.8,12.2
+2026-05-07,16:06,2026-05-07T16:06+02:00,dinner,"potato, boiled",120,104,2.3,0.1,24.1,2.2
+2026-05-07,16:06,2026-05-07T16:06+02:00,dinner,"Olive oil, extra virgin",12,106,0,12,0,0
+2026-05-07,21:02,2026-05-07T21:02+02:00,dinner,McDonald's NL Meatless/Veggie McChicken Burger,193.1,430,18,17,49,6.3
+2026-05-07,21:02,2026-05-07T21:02+02:00,dinner,McDonald's NL Franse Frietjes Medium,150,329,3.9,16,41,4
+2026-05-07,21:02,2026-05-07T21:02+02:00,dinner,McDonald's NL Coke Zero / zero-calorie drink medium,399.28,2,0,0,0,0
+2026-05-08,12:28,2026-05-08T12:28+02:00,breakfast,Latte (whole milk),220,117,6.2,6.4,9.2,0
+2026-05-08,12:28,2026-05-08T12:28+02:00,breakfast,Cantuccini / almond biscotti (estimate),14,62,1.1,1.7,10.5,0.4
+2026-05-08,13:30,2026-05-08T13:30+02:00,lunch,Happy Italy Pasta Pesto (restaurant estimate),420,1000,27,55,100,5
+2026-05-08,13:30,2026-05-08T13:30+02:00,lunch,Happy Italy Cheesy Garlic Bread (restaurant estimate),180,620,20,32,65,3
+2026-05-08,20:30,2026-05-08T20:30+02:00,dinner,Taco Mundo Nachos with Salsas (restaurant estimate),80,325,4,16,41,4
+2026-05-08,20:30,2026-05-08T20:30+02:00,dinner,Taco Mundo Street Tacos Veggie (restaurant estimate),130,305,9,11,41,6.5
+2026-05-08,20:30,2026-05-08T20:30+02:00,dinner,Coca-Cola Zero can 330ml,330,2,0,0,0,0
+2026-05-09,12:45,2026-05-09T12:45+02:00,breakfast,"Cappuccino (whole milk, home estimate)",150,74,3.9,3.9,5.8,0
+2026-05-09,14:27,2026-05-09T14:27+02:00,lunch,Sourdough bread,160,432,14.4,2.4,81.6,0
+2026-05-09,14:27,2026-05-09T14:27+02:00,lunch,young Gouda / young cheese (estimate),115,409,28.8,32.2,2.5,0
+2026-05-09,14:27,2026-05-09T14:27+02:00,lunch,Eiersalade / egg salad spread (estimate),85,204,6.8,17,3.4,0.4
+2026-05-09,14:27,2026-05-09T14:27+02:00,lunch,"Avocado, raw",60,96,1.2,8.8,5.1,0
+2026-05-09,14:27,2026-05-09T14:27+02:00,lunch,Mixed greens salad,30,6,0.5,0.1,0.9,0.5
+2026-05-09,14:27,2026-05-09T14:27+02:00,lunch,"Kaassoufflé, fried Dutch cheese pastry (estimate)",90,279,8.1,16.2,25.2,1.4
+2026-05-09,14:27,2026-05-09T14:27+02:00,lunch,Sweet chili sauce (estimate),30,57,0.1,0,14.1,0.1
+2026-05-09,14:27,2026-05-09T14:27+02:00,lunch,Mini custard fruit tartlet (estimate),45,135,1.8,6.3,17.1,0.5
+2026-05-09,14:27,2026-05-09T14:27+02:00,lunch,Creamy cucumber/coleslaw salad (estimate),50,80,0.6,6.5,4.5,0.8
+2026-05-09,14:27,2026-05-09T14:27+02:00,lunch,"Orange juice, 100% (estimate)",400,180,2.8,0.8,41.6,0.8
+2026-05-09,17:03,2026-05-09T17:03+02:00,snack,Danone HiPRO mango protein drink (25g protein bottle),300,177,24.9,1.5,16.5,0
+2026-05-09,19:32,2026-05-09T19:32+02:00,snack,Aperol spritz (standard cocktail estimate),100,180,0,0,19,0
+2026-05-09,21:30,2026-05-09T21:30+02:00,dinner,"Domino's Caprese pizza 25cm Classic, no crust (estimate)",120,246,10.9,11,25.2,1.2
+2026-05-09,21:35,2026-05-09T21:35+02:00,snack,"Savoury banana chips, generic estimate",30,156,0.7,10.2,17.4,2.1
+2026-05-09,21:45,2026-05-09T21:45+02:00,dinner,Dal chawal,150,218,7.5,4.5,37.5,0
+2026-05-10,09:30,2026-05-10T09:30+02:00,breakfast,Latte (whole milk),240,127,6.7,7,10.1,0
+2026-05-10,13:52,2026-05-10T13:52+02:00,lunch,Restaurant podi mini idli with ghee/chutney (estimate),120,264,6,10.2,37.2,3.6
+2026-05-10,13:52,2026-05-10T13:52+02:00,lunch,Butter naan (restaurant estimate),55,176,4.7,5.5,26.9,1.4
+2026-05-10,13:52,2026-05-10T13:52+02:00,lunch,Garlic naan (restaurant estimate),58,194,4.8,6.7,29,1.4
+2026-05-10,13:52,2026-05-10T13:52+02:00,lunch,Paneer butter masala (restaurant estimate),150,360,12.8,28.5,14.2,2.2
+2026-05-10,23:17,2026-05-10T23:17+02:00,dinner,Paneer butter masala (restaurant estimate),75,180,6.4,14.2,7.1,1.1
+2026-05-10,23:17,2026-05-10T23:17+02:00,dinner,Butter naan (restaurant estimate),27.5,88,2.3,2.8,13.5,0.7
+2026-05-10,23:17,2026-05-10T23:17+02:00,dinner,Garlic naan (restaurant estimate),28.5,95,2.4,3.3,14.2,0.7
+2026-05-10,23:17,2026-05-10T23:17+02:00,dinner,Ghee roast masala dosa with chutneys/sambar (restaurant estimate),70,144,3.1,6,19.6,2.1
+2026-05-10,23:17,2026-05-10T23:17+02:00,dinner,Dal chawal,175,254,8.8,5.2,43.8,0
+2026-05-10,23:17,2026-05-10T23:17+02:00,snack,"Savoury banana chips, generic estimate",20,104,0.5,6.8,11.6,1.4
+2026-05-11,12:37,2026-05-11T12:37+02:00,breakfast,Optimel Magere Yoghurt Aardbei 0% vet,150,54,5,0,7,0
+2026-05-11,12:37,2026-05-11T12:37+02:00,breakfast,Kruidvat 100% Pure Whey strawberry,30,117,23,1,4,0
+2026-05-11,12:37,2026-05-11T12:37+02:00,breakfast,Optimel Magere Yoghurt Aardbei 0% vet,150,54,5,0,7,0
+2026-05-11,16:39,2026-05-11T16:39+02:00,lunch,Roti / chapati homemade estimate,45,126,3.6,2.2,23.4,3.1
+2026-05-11,16:39,2026-05-11T16:39+02:00,lunch,Thepla homemade estimate,35,105,2.8,3.5,15.8,1.8
+2026-05-11,16:39,2026-05-11T16:39+02:00,lunch,Paneer bhurji homemade estimate,100,255,14,20,5,1.2
+2026-05-11,16:39,2026-05-11T16:39+02:00,snack,"Cappuccino (whole milk, home estimate)",150,74,3.9,3.9,5.8,0
+2026-05-11,18:08,2026-05-11T18:08+02:00,snack,Kruidvat 100% Pure Whey strawberry,30,117,23,1,4,0
+2026-05-11,18:08,2026-05-11T18:08+02:00,snack,Optimel Magere Yoghurt Aardbei 0% vet,150,54,5,0,7,0
+2026-05-11,21:15,2026-05-11T21:15+02:00,dinner,"Rice paper wrapper, dry (estimate)",60,204,0.3,0.2,50.4,0.6
+2026-05-11,21:15,2026-05-11T21:15+02:00,dinner,"tofu, firm",82.5,119,14.3,7.2,2.3,1.9
+2026-05-11,21:15,2026-05-11T21:15+02:00,dinner,"Carrot, raw",27.17,11,0.2,0.1,2.6,0.8
+2026-05-11,21:15,2026-05-11T21:15+02:00,dinner,"Mushrooms, raw (estimate)",32.61,7,1,0.1,1.1,0.3
+2026-05-11,21:15,2026-05-11T21:15+02:00,dinner,"Olive oil, extra virgin",6.75,60,0,6.8,0,0
+2026-05-11,21:15,2026-05-11T21:15+02:00,dinner,peanut butter,24,141,6,12.1,4.8,1.4
+2026-05-11,21:15,2026-05-11T21:15+02:00,dinner,Soy sauce,10,5,0.8,0.1,0.5,0.1
+2026-05-11,21:15,2026-05-11T21:15+02:00,dinner,"sugar, white",3,12,0,0,3,0
+2026-05-11,21:15,2026-05-11T21:15+02:00,dinner,Sweet chili sauce (estimate),10,19,0.1,0,4.7,0
+2026-05-11,21:15,2026-05-11T21:15+02:00,dinner,Sesame seeds,3,17,0.5,1.5,0.7,0.4
+2026-05-12,10:09,2026-05-12T10:09+02:00,breakfast,"Cappuccino (whole milk, home estimate)",150,74,3.9,3.9,5.8,0
+2026-05-12,14:34,2026-05-12T14:34+02:00,breakfast,Starbucks Protein Drink with Coffee Caramel Hazelnut 330ml,330,168,20.1,3.6,13.2,0
+2026-05-12,14:43,2026-05-12T14:43+02:00,lunch,"Egg, whole, raw",200,286,25.1,19,1.4,0
+2026-05-12,14:43,2026-05-12T14:43+02:00,lunch,"Vegetable samosa, frozen air-fried estimate",45,104,2.2,4,13.9,1.1
+2026-05-12,14:43,2026-05-12T14:43+02:00,lunch,"Olive oil, extra virgin",5,44,0,5,0,0
+2026-05-12,21:06,2026-05-12T21:06+02:00,dinner,"Rice paper wrapper, dry (estimate)",70,238,0.3,0.2,58.8,0.7
+2026-05-12,21:06,2026-05-12T21:06+02:00,dinner,"tofu, firm",96.25,139,16.7,8.4,2.7,2.2
+2026-05-12,21:06,2026-05-12T21:06+02:00,dinner,"Carrot, raw",31.7,13,0.3,0.1,3,0.9
+2026-05-12,21:06,2026-05-12T21:06+02:00,dinner,"Mushrooms, raw (estimate)",38.04,8,1.2,0.1,1.3,0.4
+2026-05-12,21:06,2026-05-12T21:06+02:00,dinner,"Olive oil, extra virgin",7.88,70,0,7.9,0,0
+2026-05-12,21:06,2026-05-12T21:06+02:00,dinner,peanut butter,28,165,7,14.1,5.6,1.7
+2026-05-12,21:06,2026-05-12T21:06+02:00,dinner,Soy sauce,11.67,6,0.9,0.1,0.6,0.1
+2026-05-12,21:06,2026-05-12T21:06+02:00,dinner,"sugar, white",3.5,14,0,0,3.5,0
+2026-05-12,21:06,2026-05-12T21:06+02:00,dinner,Sweet chili sauce (estimate),11.67,22,0.1,0,5.5,0
+2026-05-12,21:06,2026-05-12T21:06+02:00,dinner,Sesame seeds,3.5,20,0.6,1.7,0.8,0.4
+2026-05-12,21:06,2026-05-12T21:06+02:00,snack,Kruidvat 100% Pure Whey strawberry,30,117,23,1,4,0
+2026-05-13,09:48,2026-05-13T09:48+02:00,breakfast,Kruidvat Whey Protein 100% Isolate vanilla,30,108,26,0.1,0.3,0.3
+2026-05-13,09:48,2026-05-13T09:48+02:00,breakfast,"Milk, whole 3.25%",128.75,79,4.1,4.2,6.2,0
+2026-05-13,17:38,2026-05-13T17:38+02:00,snack,Melkunie Protein mango yoghurt pouch 200g,200,142,20,1.2,11,0
+2026-05-13,17:38,2026-05-13T17:38+02:00,snack,"Coffee, brewed (Jumbo Beste Crema)",240,5,0.7,0,0,0
+2026-05-13,17:55,2026-05-13T17:55+02:00,lunch,Roti / chapati homemade estimate,45,126,3.6,2.2,23.4,3.1
+2026-05-13,17:55,2026-05-13T17:55+02:00,lunch,Thepla homemade estimate,35,105,2.8,3.5,15.8,1.8
+2026-05-13,17:55,2026-05-13T17:55+02:00,lunch,Paneer bhurji homemade estimate,100,255,14,20,5,1.2
+2026-05-13,20:00,2026-05-13T20:00+02:00,dinner,"Soba noodles, cooked (estimate)",180,178,9.2,0.2,38.5,2.7
+2026-05-13,20:00,2026-05-13T20:00+02:00,dinner,"tofu, firm",100,144,17.3,8.7,2.8,2.3
+2026-05-13,20:00,2026-05-13T20:00+02:00,dinner,"Broccoli, cooked",75,26,1.8,0.3,5.4,2.5
+2026-05-13,20:00,2026-05-13T20:00+02:00,dinner,Roasted bell pepper,60,19,0.6,0.2,4.2,0
+2026-05-13,20:00,2026-05-13T20:00+02:00,dinner,peanut butter,24,141,6,12.1,4.8,1.4
+2026-05-13,20:00,2026-05-13T20:00+02:00,dinner,Sweet chili sauce (estimate),15,28,0.1,0,7,0
+2026-05-13,20:00,2026-05-13T20:00+02:00,dinner,Soy sauce,10,5,0.8,0.1,0.5,0.1
+2026-05-13,20:00,2026-05-13T20:00+02:00,dinner,Rice vinegar / vinegar (estimate),5,1,0,0,0,0
+2026-05-13,20:00,2026-05-13T20:00+02:00,dinner,"sugar, white",3,12,0,0,3,0
+2026-05-13,20:00,2026-05-13T20:00+02:00,dinner,Sesame seeds,4,23,0.7,2,0.9,0.5
+2026-05-14,09:00,2026-05-14T09:00+02:00,breakfast,Kruidvat Whey Protein 100% Isolate vanilla,60,216,52,0.2,0.6,0.5
+2026-05-14,10:00,2026-05-14T10:00+02:00,breakfast,"Cappuccino (whole milk, home estimate)",150,74,3.9,3.9,5.8,0
+2026-05-14,11:30,2026-05-14T11:30+02:00,lunch,Sourdough bread,160,432,14.4,2.4,81.6,0
+2026-05-14,11:30,2026-05-14T11:30+02:00,lunch,green pesto (estimate),30,141,1.5,13.5,2.4,0.6
+2026-05-14,11:30,2026-05-14T11:30+02:00,lunch,"Egg, whole, raw",100,143,12.6,9.5,0.7,0
+2026-05-14,15:00,2026-05-14T15:00+02:00,snack,Melkunie Protein mango yoghurt pouch 200g,200,142,20,1.2,11,0
+2026-05-14,20:00,2026-05-14T20:00+02:00,dinner,Roti / chapati homemade estimate,135,378,10.8,6.8,70.2,9.4
+2026-05-14,20:00,2026-05-14T20:00+02:00,dinner,Aloo gobi sabzi homemade estimate,175,192,5.2,8.8,24.5,7
+2026-05-14,20:00,2026-05-14T20:00+02:00,dinner,Matar paneer shahi homemade estimate,200,420,16,32,18,4
+2026-05-14,22:30,2026-05-14T22:30+02:00,snack,Ghirardelli milk chocolate (50 kcal piece estimate),10,50,0.7,2.9,5.9,0.2
+2026-05-15,11:16,2026-05-15T11:16+02:00,breakfast,Kruidvat Whey Protein 100% Isolate vanilla,30,108,26,0.1,0.3,0.3
+2026-05-15,13:00,2026-05-15T13:00+02:00,lunch,Jumbo Pinsa Caprese 357g,204,551,21.2,27.3,54.5,1.2
+2026-05-15,13:00,2026-05-15T13:00+02:00,lunch,Tiba Tempeh Sweet Chilli Pieces 200g,100,261,22,12,13,6.5
+2026-05-15,18:51,2026-05-15T18:51+02:00,snack,"Apple, raw",182,95,0.5,0.4,25.1,4.4
+2026-05-15,18:51,2026-05-15T18:51+02:00,snack,"Coffee, brewed (Jumbo Beste Crema)",240,5,0.7,0,0,0
+2026-05-16,10:00,2026-05-16T10:00+02:00,breakfast,"Cappuccino (whole milk, home estimate)",150,74,3.9,3.9,5.8,0
+2026-05-16,13:30,2026-05-16T13:30+02:00,lunch,"Pasta, cooked (estimate)",250,395,14.5,2.2,77.2,4.5
+2026-05-16,13:30,2026-05-16T13:30+02:00,lunch,"green peas, cooked",120,101,6.4,0.3,18.8,6.6
+2026-05-16,13:30,2026-05-16T13:30+02:00,lunch,"Egg, whole, raw",50,72,6.3,4.8,0.4,0
+2026-05-16,13:30,2026-05-16T13:30+02:00,lunch,"Parmesan cheese, grated (estimate)",45,194,17.1,13.1,1.8,0
+2026-05-16,13:30,2026-05-16T13:30+02:00,lunch,"Olive oil, extra virgin",15,133,0,15,0,0
+2026-05-16,20:30,2026-05-16T20:30+02:00,dinner,Shabu to Go sweet tamago nigiri (estimate),50,65,2.2,1,12,0.2
+2026-05-16,20:30,2026-05-16T20:30+02:00,dinner,Shabu to Go avocado maki (estimate),55,95,2,3,15,1.4
+2026-05-16,20:30,2026-05-16T20:30+02:00,dinner,Shabu to Go veggie kappa roll (estimate),110,175,3.5,4,31,2.2
+2026-05-16,20:30,2026-05-16T20:30+02:00,dinner,Shabu to Go kappa maki (estimate),100,140,3,0.5,31,1
+2026-05-16,20:30,2026-05-16T20:30+02:00,dinner,Shabu to Go tamago maki (estimate),55,95,3,1.5,17,0.4
+2026-05-16,20:30,2026-05-16T20:30+02:00,dinner,Shabu to Go Japanese veggie spring roll (estimate),150,375,7.5,15,52.5,3
+2026-05-17,11:30,2026-05-17T11:30+02:00,brunch,Sourdough bread,60,162,5.4,0.9,30.6,0
+2026-05-17,11:30,2026-05-17T11:30+02:00,brunch,"Avocado, raw",112,179,2.2,16.5,9.5,0
+2026-05-17,11:30,2026-05-17T11:30+02:00,brunch,"Egg, whole, raw",75,107,9.4,7.1,0.5,0
+2026-05-17,11:30,2026-05-17T11:30+02:00,brunch,"Olive oil, extra virgin",5,44,0,5,0,0
+2026-05-17,11:30,2026-05-17T11:30+02:00,brunch,Latte (whole milk),240,127,6.7,7,10.1,0
+2026-05-17,11:30,2026-05-17T11:30+02:00,brunch,"Homemade banana bread, modified Natasha recipe (1 slice estimate)",100,374,7.3,21.5,40.5,2.8
+2026-05-17,16:00,2026-05-17T16:00+02:00,snack,IKEA FESTLIGT potato crisps sour cream & onion,150,794,12.8,40.5,91.5,0
+2026-05-17,16:00,2026-05-17T16:00+02:00,snack,"greek yogurt, non-fat",100,59,10.2,0.4,3.6,0
+2026-05-17,16:00,2026-05-17T16:00+02:00,snack,"Apple, raw",182,95,0.5,0.4,25.1,4.4
+2026-05-17,20:30,2026-05-17T20:30+02:00,dinner,"Pasta, cooked (estimate)",180,284,10.4,1.6,55.6,3.2
+2026-05-17,20:30,2026-05-17T20:30+02:00,dinner,"Zucchini, cooked (estimate)",100,20,1.2,0.3,3.5,1.1
+2026-05-17,20:30,2026-05-17T20:30+02:00,dinner,"tofu, firm",120,173,20.8,10.4,3.4,2.8
+2026-05-17,20:30,2026-05-17T20:30+02:00,dinner,"Sun-dried tomatoes in oil, drained (estimate)",25,53,1.2,3.5,5.8,1.2
+2026-05-17,20:30,2026-05-17T20:30+02:00,dinner,Burrata cheese (estimate),50,150,6.5,12.5,1,0
+2026-05-17,20:30,2026-05-17T20:30+02:00,dinner,"Parmesan cheese, grated (estimate)",5,22,1.9,1.4,0.2,0
+2026-05-17,20:30,2026-05-17T20:30+02:00,dinner,Riesling wine,120,98,0.1,0,3.1,0
+2026-05-17,20:30,2026-05-17T20:30+02:00,dinner,Cranberry juice cocktail (estimate),40,18,0,0,4.8,0
+2026-05-17,20:30,2026-05-17T20:30+02:00,dinner,"Peach, fresh",50,20,0.5,0.1,4.8,0.8
+2026-05-18,09:53,2026-05-18T09:53+02:00,breakfast,Kruidvat Whey Protein 100% Isolate vanilla,30,108,26,0.1,0.3,0.3
+2026-05-18,09:53,2026-05-18T09:53+02:00,breakfast,Espresso (single shot),60,2,0.1,0.1,0,0
+2026-05-18,09:53,2026-05-18T09:53+02:00,breakfast,"Milk, whole 3.25%",150,92,4.7,4.9,7.2,0
+2026-05-18,11:57,2026-05-18T11:57+02:00,lunch,"Whole wheat bread, commercially prepared (USDA)",90,227,11.2,3.1,38.4,5.4
+2026-05-18,11:57,2026-05-18T11:57+02:00,lunch,"Avocado, raw",75,120,1.5,11,6.4,0
+2026-05-18,11:57,2026-05-18T11:57+02:00,lunch,"tofu, firm",150,216,25.9,13.1,4.2,3.5
+2026-05-18,11:57,2026-05-18T11:57+02:00,lunch,"Olive oil, extra virgin",15,133,0,15,0,0
+2026-05-18,11:57,2026-05-18T11:57+02:00,lunch,"Pumpkin seeds, roasted unsalted (USDA)",10,57,3,4.9,1.5,0.7
+2026-05-18,16:38,2026-05-18T16:38+02:00,snack,Melkunie Protein aardbei yoghurt pouch 200g,200,142,20,1.2,11.2,0
+2026-05-18,16:40,2026-05-18T16:40+02:00,snack,"Cappuccino (whole milk, home estimate)",150,74,3.9,3.9,5.8,0
+2026-05-18,19:43,2026-05-18T19:43+02:00,dinner,Shabu to Go sweet tamago nigiri (estimate),80,104,3.5,1.6,19.2,0.4
+2026-05-18,19:43,2026-05-18T19:43+02:00,dinner,Shabu to Go kappa maki (estimate),100,140,3,0.5,31,1
+2026-05-18,19:43,2026-05-18T19:43+02:00,dinner,Shabu to Go tamago maki (estimate),40,69,2.2,1.1,12.4,0.3
+2026-05-18,19:43,2026-05-18T19:43+02:00,dinner,"Pasta, cooked (estimate)",78.12,123,4.5,0.7,24.1,1.4
+2026-05-18,19:43,2026-05-18T19:43+02:00,dinner,"green peas, cooked",37.5,32,2,0.1,5.9,2.1
+2026-05-18,19:43,2026-05-18T19:43+02:00,dinner,"Egg, whole, raw",15.62,22,2,1.5,0.1,0
+2026-05-18,19:43,2026-05-18T19:43+02:00,dinner,"Parmesan cheese, grated (estimate)",14.06,61,5.3,4.1,0.6,0
+2026-05-18,19:43,2026-05-18T19:43+02:00,dinner,"Olive oil, extra virgin",4.69,41,0,4.7,0,0
+2026-05-19,09:58,2026-05-19T09:58+02:00,breakfast,Latte (whole milk),240,127,6.7,7,10.1,0
+2026-05-19,11:11,2026-05-19T11:11+02:00,snack,Kruidvat Whey Protein 100% Isolate vanilla,30,108,26,0.1,0.3,0.3
+2026-05-19,11:11,2026-05-19T11:11+02:00,snack,"Milk, whole 3.25%",85.83,52,2.7,2.8,4.1,0
+2026-05-19,11:11,2026-05-19T11:11+02:00,snack,Optimel drinkyoghurt 0% vet (per 100ml),83.33,27,2.6,0,3.4,0
+2026-05-19,13:47,2026-05-19T13:47+02:00,lunch,Sourdough bread,135,364,12.2,2,68.8,0
+2026-05-19,13:47,2026-05-19T13:47+02:00,lunch,hummus,60,100,4.8,6,8.4,3.6
+2026-05-19,13:47,2026-05-19T13:47+02:00,lunch,"Egg, whole, raw",150,214,18.8,14.3,1.1,0

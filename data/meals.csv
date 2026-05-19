@@ -1,0 +1,90 @@
+date,meal,first_time,last_time,items,kcal,protein_g,fat_g,carbs_g,fiber_g,foods
+2026-04-24,lunch,11:12,11:12,1,1130,45.5,46.5,133.5,12.5,tamatar paneer sandwich
+2026-04-24,breakfast,20:09,20:09,8,337,20.2,19.3,20.4,1.2,"Egg, whole, raw; Tomato, raw; Onion, raw; Milk, whole 3.25% × 2; Spices, mixed (Indian); Butter, salted; Coffee, brewed (Jumbo Beste Crema)"
+2026-04-24,dinner,20:17,20:17,2,162,26.2,1.1,12.6,0.5,"greek yogurt, non-fat; cucumber, raw"
+2026-04-25,breakfast,10:05,10:05,1,127,6.7,7,10.1,0,Latte (whole milk)
+2026-04-25,lunch,10:17,10:17,4,627,30.1,20.3,81.2,0,Tomato paneer sandwich (multigrain); Kwark strawberry chia dark choc bowl; Dum aloo; Dal chawal
+2026-04-25,snack,14:14,14:14,2,269,16.2,12.3,24.7,4,Snickers Protein bar; Starbucks Chilled Caffè Latte (no added sugar)
+2026-04-25,dinner,19:50,19:50,6,1505,39.3,58.1,177.7,19.5,falafel (deep-fried); hummus; baba ganoush / dip (avg); pita bread; fries (restaurant); mojito
+2026-04-26,lunch,12:38,12:40,8,1174,49.4,73.7,82.2,5.5,"Latte (whole milk); Brioche bread; Egg, whole, raw; Hollandaise sauce; Mixed greens salad; Sweet corn, boiled; Potato chips/salted nachos; Mozzarella, fresh"
+2026-04-26,snack,18:00,18:00,2,92,0,0,22.5,0,"Ice lolly (fruit, water-based); Lollipop (hard candy)"
+2026-04-27,lunch,13:30,13:30,2,468,15.9,20.1,52.8,7.8,soft taco w/ plant-based pulled + beans (estimate); tortilla chips & guac side (estimate)
+2026-04-27,snack,18:30,18:30,1,248,8.9,8.9,35.5,0,"Starbucks pistachio latte/macchiato (tall, whole milk)"
+2026-04-27,dinner,20:23,20:23,3,808,46,27.3,98.4,6,"moong dal khichdi (with ghee); paneer; greek yogurt, 2%"
+2026-04-28,breakfast,09:28,09:28,3,107,6.1,6,7.7,0,"Latte (whole milk); Egg, whole, raw; Milk, whole 3.25%"
+2026-04-28,lunch,10:38,10:38,11,734,29.3,37.4,69.5,1.8,"Sourdough bread; Avocado, raw; hummus; Olive oil, extra virgin; Roasted bell pepper; Egg, whole, raw; Cheddar cheese; Butter, salted; Pancake, buttermilk whole-wheat (restaurant); Maple syrup; Blueberry compote"
+2026-04-28,snack,11:38,13:05,4,298,36.3,9.7,18.8,1,"whey isolate protein powder; Milk, whole 3.25%; Strawberry, raw; Latte (whole milk)"
+2026-04-28,dinner,20:38,20:38,1,549,36,39.4,20.2,1.9,Paneer mushroom broccoli tikka w/ mint-coriander yogurt dip (home recipe)
+2026-04-29,snack,08:12,21:00,6,698,22.8,36.4,69.2,2.5,"Kruidvat 100% Pure Whey strawberry; Milk, whole 3.25% × 2; strawberries, fresh; Lay's Bugles cheese; Dark chocolate (70%)"
+2026-04-29,lunch,13:28,13:29,2,1264,52.7,54.4,139.2,16.3,Mexican paneer burrito (YFL homemade); tortilla chips & guac side (estimate)
+2026-04-29,dinner,18:08,18:08,4,347,17.8,22.7,22.3,2.9,"Paneer mushroom broccoli tikka w/ mint-coriander yogurt dip (home recipe); Sweet corn, boiled; Mixed greens salad; Creamy yogurt salad dressing (estimate)"
+2026-04-30,breakfast,06:00,06:00,1,127,6.7,7,10.1,0,Latte (whole milk)
+2026-04-30,lunch,10:30,11:00,6,636,63.3,27.7,37.6,5.1,"Kruidvat 100% Pure Whey strawberry; Milk, whole 3.25%; Paneer mushroom broccoli tikka w/ mint-coriander yogurt dip (home recipe); Mixed greens salad; Carrot, raw; hummus"
+2026-04-30,snack,14:30,22:00,5,687,37,26.4,75.2,8,"Kruidvat 100% Pure Whey strawberry; Milk, whole 3.25%; Espresso (single shot); Macaroon cookie (estimate); Salted popcorn, store-bought bag (estimate)"
+2026-04-30,dinner,19:04,19:04,4,600,32.5,28.7,53.8,8.2,"Mixed greens salad; Goat cheese, soft (estimate); Beetroot, cooked; Vegetarian lasagna w/ tofu mozzarella and vegetables (estimate)"
+2026-05-01,breakfast,11:43,11:43,2,326,50.7,6.9,15.2,0,"Kruidvat 100% Pure Whey strawberry; Milk, whole 3.25%"
+2026-05-01,lunch,12:18,12:35,6,1311,57,53.9,150.1,17.2,"Mexican paneer burrito (YFL homemade); white rice, cooked; paneer; Mexican black bean filling (estimate); Corn tomato onion salsa (estimate); Avocado, raw"
+2026-05-01,snack,15:20,15:20,1,47,0.3,0.2,12.6,2.2,"Apple, raw"
+2026-05-01,dinner,17:53,21:05,6,582,26.3,36.9,39.2,7.1,"Mixed greens salad; Beetroot, cooked; Goat cheese, soft (estimate); Walnuts; Olive oil, extra virgin; Vegetarian lasagna w/ tofu mozzarella and vegetables (estimate)"
+2026-05-02,brunch,12:05,12:05,3,653,57,24.1,52.4,5,"Kruidvat 100% Pure Whey strawberry; Milk, whole 3.25%; Vegetarian lasagna w/ tofu mozzarella and vegetables (estimate)"
+2026-05-02,snack,18:29,23:58,9,941,37.8,29.8,77.4,1.9,"Sourdough bread; Goat cheese, soft (estimate); young Gouda / young cheese (estimate); plain crackers (estimate); chipotle creamy dip (estimate); green pesto (estimate); birthday cake slice (estimate); beer lager (estimate); Protein bar (user-provided macros)"
+2026-05-03,breakfast,10:27,10:27,6,916,28,53.4,83.2,3.4,"Croissant, butter (estimate); Avocado, raw; Egg, whole, raw; Orange juice, 100% (estimate); Latte (whole milk); Chili oil (estimate)"
+2026-05-03,lunch,13:52,13:52,3,967,25.8,53,97.4,9.7,"Paneer paratha, large homemade (estimate); Aloo paratha, homemade (estimate); Butter, salted"
+2026-05-03,snack,20:35,21:58,3,826,11.8,40.8,104.7,9.9,"Cinema popcorn, medium tub (whole portion estimate); Cinema nachos with salsa (whole portion estimate); Oreo Crunchy Bites Dipped milk chocolate (110g pack)"
+2026-05-04,breakfast,10:33,10:33,2,326,50.7,6.9,15.2,0,"Kruidvat 100% Pure Whey strawberry; Milk, whole 3.25%"
+2026-05-04,lunch,12:42,12:42,1,648,27.7,28.6,68.4,10.5,Small egg & black bean burrito homemade estimate
+2026-05-04,dinner,20:34,20:34,10,717,35.5,24.3,95.8,10.8,"white rice, cooked; tofu, firm; Broccoli, cooked; Carrot, raw; Cauliflower, cooked; Soy sauce; Gochujang paste; Date syrup; Coconut milk, canned; Sesame seeds"
+2026-05-05,breakfast,09:55,09:55,5,433,57.2,11.3,25.6,0.8,"Cappuccino (whole milk, home estimate); Besan chilra with onion, bell pepper, Greek yogurt (home estimate); greek yogurt, non-fat; Kruidvat 100% Pure Whey strawberry; Milk, whole 3.25%"
+2026-05-05,lunch,14:09,14:13,3,715,29.5,31,78.2,11.5,"Small egg & black bean burrito homemade estimate × 2; Aloo paratha, homemade (estimate)"
+2026-05-05,snack,18:15,18:15,1,260,1.1,16,27.5,2.8,Salted fried banana chips (South Indian style estimate)
+2026-05-05,dinner,18:50,18:50,2,412,25.7,22.2,36,7.2,Pumpkin carrot zucchini paprika soup with coconut milk (home estimate); Air-fried tempeh (home estimate)
+2026-05-06,breakfast,10:38,10:38,2,326,50.7,6.9,15.2,0,"Kruidvat 100% Pure Whey strawberry; Milk, whole 3.25%"
+2026-05-06,lunch,13:02,13:02,2,756,29.3,29.1,93.3,10.9,"Small egg & black bean burrito homemade estimate; Orange juice, 100% (estimate)"
+2026-05-06,snack,16:03,16:03,1,117,23,1,4,0,Kruidvat 100% Pure Whey strawberry
+2026-05-06,dinner,20:44,20:46,10,789,37.7,38,83.5,11.3,"Air-fried tempeh (home estimate); Whole wheat noodles, cooked (estimate); Coconut milk, canned; Mushrooms, raw (estimate); Bok choy, cooked/raw (estimate); Onion, raw; Garlic, raw (estimate); Roasted bell pepper; Bean sprouts, raw (estimate); Olive oil, extra virgin"
+2026-05-07,snack,09:59,15:23,5,637,54.4,20.2,65,4.1,"Kruidvat 100% Pure Whey strawberry; Milk, whole 3.25%; Banana; Snickers Hi Protein Low Sugar bar (57g); Doritos Nacho Cheese tortilla chips (estimate)"
+2026-05-07,lunch,10:52,10:52,3,713,21.5,32.6,79.5,5.5,"Pasta, cooked (estimate); green pesto (estimate); Parmesan cheese, grated (estimate)"
+2026-05-07,dinner,16:06,21:02,7,1442,42.7,49.8,202.8,25.3,"white rice, cooked; chana (chickpeas), cooked; potato, boiled; Olive oil, extra virgin; McDonald's NL Meatless/Veggie McChicken Burger; McDonald's NL Franse Frietjes Medium; McDonald's NL Coke Zero / zero-calorie drink medium"
+2026-05-08,breakfast,12:28,12:28,2,179,7.3,8.1,19.7,0.4,Latte (whole milk); Cantuccini / almond biscotti (estimate)
+2026-05-08,lunch,13:30,13:30,2,1620,47,87,165,8,Happy Italy Pasta Pesto (restaurant estimate); Happy Italy Cheesy Garlic Bread (restaurant estimate)
+2026-05-08,dinner,20:30,20:30,3,632,13,27,82,10.5,Taco Mundo Nachos with Salsas (restaurant estimate); Taco Mundo Street Tacos Veggie (restaurant estimate); Coca-Cola Zero can 330ml
+2026-05-09,breakfast,12:45,12:45,1,74,3.9,3.9,5.8,0,"Cappuccino (whole milk, home estimate)"
+2026-05-09,lunch,14:27,14:27,10,1878,65,90.3,196,4.3,"Sourdough bread; young Gouda / young cheese (estimate); Eiersalade / egg salad spread (estimate); Avocado, raw; Mixed greens salad; Kaassoufflé, fried Dutch cheese pastry (estimate); Sweet chili sauce (estimate); Mini custard fruit tartlet (estimate); Creamy cucumber/coleslaw salad (estimate); Orange juice, 100% (estimate)"
+2026-05-09,snack,17:03,21:35,3,513,25.6,11.7,52.9,2.1,"Danone HiPRO mango protein drink (25g protein bottle); Aperol spritz (standard cocktail estimate); Savoury banana chips, generic estimate"
+2026-05-09,dinner,21:30,21:45,2,464,18.4,15.5,62.7,1.2,"Domino's Caprese pizza 25cm Classic, no crust (estimate); Dal chawal"
+2026-05-10,breakfast,09:30,09:30,1,127,6.7,7,10.1,0,Latte (whole milk)
+2026-05-10,lunch,13:52,13:52,4,994,28.2,50.9,107.4,8.7,Restaurant podi mini idli with ghee/chutney (estimate); Butter naan (restaurant estimate); Garlic naan (restaurant estimate); Paneer butter masala (restaurant estimate)
+2026-05-10,snack,23:17,23:17,1,104,0.5,6.8,11.6,1.4,"Savoury banana chips, generic estimate"
+2026-05-10,dinner,23:17,23:17,5,761,23,31.5,98.2,4.6,Paneer butter masala (restaurant estimate); Butter naan (restaurant estimate); Garlic naan (restaurant estimate); Ghee roast masala dosa with chutneys/sambar (restaurant estimate); Dal chawal
+2026-05-11,breakfast,12:37,12:37,3,225,32.9,1,18.1,0,Optimel Magere Yoghurt Aardbei 0% vet × 2; Kruidvat 100% Pure Whey strawberry
+2026-05-11,lunch,16:39,16:39,3,486,20.4,25.8,44.1,6.1,Roti / chapati homemade estimate; Thepla homemade estimate; Paneer bhurji homemade estimate
+2026-05-11,snack,16:39,18:08,3,245,31.8,4.9,16.8,0,"Cappuccino (whole milk, home estimate); Kruidvat 100% Pure Whey strawberry; Optimel Magere Yoghurt Aardbei 0% vet"
+2026-05-11,dinner,21:15,21:15,10,595,23.2,27.9,70.1,5.5,"Rice paper wrapper, dry (estimate); tofu, firm; Carrot, raw; Mushrooms, raw (estimate); Olive oil, extra virgin; peanut butter; Soy sauce; sugar, white; Sweet chili sauce (estimate); Sesame seeds"
+2026-05-12,breakfast,10:09,14:34,2,242,24,7.5,19,0,"Cappuccino (whole milk, home estimate); Starbucks Protein Drink with Coffee Caramel Hazelnut 330ml"
+2026-05-12,lunch,14:43,14:43,3,434,27.4,28,15.4,1.1,"Egg, whole, raw; Vegetable samosa, frozen air-fried estimate; Olive oil, extra virgin"
+2026-05-12,snack,21:06,21:06,1,117,23,1,4,0,Kruidvat 100% Pure Whey strawberry
+2026-05-12,dinner,21:06,21:06,10,694,27.1,32.6,81.8,6.4,"Rice paper wrapper, dry (estimate); tofu, firm; Carrot, raw; Mushrooms, raw (estimate); Olive oil, extra virgin; peanut butter; Soy sauce; sugar, white; Sweet chili sauce (estimate); Sesame seeds"
+2026-05-13,breakfast,09:48,09:48,2,187,30.1,4.3,6.5,0.3,"Kruidvat Whey Protein 100% Isolate vanilla; Milk, whole 3.25%"
+2026-05-13,snack,17:38,17:38,2,147,20.7,1.2,11,0,"Melkunie Protein mango yoghurt pouch 200g; Coffee, brewed (Jumbo Beste Crema)"
+2026-05-13,lunch,17:55,17:55,3,486,20.4,25.8,44.1,6.1,Roti / chapati homemade estimate; Thepla homemade estimate; Paneer bhurji homemade estimate
+2026-05-13,dinner,20:00,20:00,10,577,36.5,23.5,67.2,9.5,"Soba noodles, cooked (estimate); tofu, firm; Broccoli, cooked; Roasted bell pepper; peanut butter; Sweet chili sauce (estimate); Soy sauce; Rice vinegar / vinegar (estimate); sugar, white; Sesame seeds"
+2026-05-14,breakfast,09:00,10:00,2,290,55.9,4.1,6.4,0.5,"Kruidvat Whey Protein 100% Isolate vanilla; Cappuccino (whole milk, home estimate)"
+2026-05-14,lunch,11:30,11:30,3,716,28.5,25.4,84.7,0.6,"Sourdough bread; green pesto (estimate); Egg, whole, raw"
+2026-05-14,snack,15:00,22:30,2,192,20.7,4.1,16.9,0.2,Melkunie Protein mango yoghurt pouch 200g; Ghirardelli milk chocolate (50 kcal piece estimate)
+2026-05-14,dinner,20:00,20:00,3,990,32,47.5,112.7,20.4,Roti / chapati homemade estimate; Aloo gobi sabzi homemade estimate; Matar paneer shahi homemade estimate
+2026-05-15,breakfast,11:16,11:16,1,108,26,0.1,0.3,0.3,Kruidvat Whey Protein 100% Isolate vanilla
+2026-05-15,lunch,13:00,13:00,2,812,43.2,39.3,67.5,7.7,Jumbo Pinsa Caprese 357g; Tiba Tempeh Sweet Chilli Pieces 200g
+2026-05-15,snack,18:51,18:51,2,99,1.3,0.4,25.1,4.4,"Apple, raw; Coffee, brewed (Jumbo Beste Crema)"
+2026-05-16,breakfast,10:00,10:00,1,74,3.9,3.9,5.8,0,"Cappuccino (whole milk, home estimate)"
+2026-05-16,lunch,13:30,13:30,5,894,44.3,35.3,98.2,11.1,"Pasta, cooked (estimate); green peas, cooked; Egg, whole, raw; Parmesan cheese, grated (estimate); Olive oil, extra virgin"
+2026-05-16,dinner,20:30,20:30,6,945,21.2,25,158.5,8.3,Shabu to Go sweet tamago nigiri (estimate); Shabu to Go avocado maki (estimate); Shabu to Go veggie kappa roll (estimate); Shabu to Go kappa maki (estimate); Shabu to Go tamago maki (estimate); Shabu to Go Japanese veggie spring roll (estimate)
+2026-05-17,brunch,11:30,11:30,6,994,31.1,58,91.2,2.8,"Sourdough bread; Avocado, raw; Egg, whole, raw; Olive oil, extra virgin; Latte (whole milk); Homemade banana bread, modified Natasha recipe (1 slice estimate)"
+2026-05-17,snack,16:00,16:00,3,947,23.5,41.3,120.2,4.4,"IKEA FESTLIGT potato crisps sour cream & onion; greek yogurt, non-fat; Apple, raw"
+2026-05-17,dinner,20:30,20:30,9,838,42.6,30,82.1,9.1,"Pasta, cooked (estimate); Zucchini, cooked (estimate); tofu, firm; Sun-dried tomatoes in oil, drained (estimate); Burrata cheese (estimate); Parmesan cheese, grated (estimate); Riesling wine; Cranberry juice cocktail (estimate); Peach, fresh"
+2026-05-18,breakfast,09:53,09:53,3,202,30.8,5.1,7.5,0.3,"Kruidvat Whey Protein 100% Isolate vanilla; Espresso (single shot); Milk, whole 3.25%"
+2026-05-18,lunch,11:57,11:57,5,753,41.6,47.1,50.5,9.5,"Whole wheat bread, commercially prepared (USDA); Avocado, raw; tofu, firm; Olive oil, extra virgin; Pumpkin seeds, roasted unsalted (USDA)"
+2026-05-18,snack,16:38,16:40,2,216,23.9,5.1,17,0,"Melkunie Protein aardbei yoghurt pouch 200g; Cappuccino (whole milk, home estimate)"
+2026-05-18,dinner,19:43,19:43,8,593,22.6,14.2,93.2,5.2,"Shabu to Go sweet tamago nigiri (estimate); Shabu to Go kappa maki (estimate); Shabu to Go tamago maki (estimate); Pasta, cooked (estimate); green peas, cooked; Egg, whole, raw; Parmesan cheese, grated (estimate); Olive oil, extra virgin"
+2026-05-19,breakfast,09:58,09:58,1,127,6.7,7,10.1,0,Latte (whole milk)
+2026-05-19,snack,11:11,11:11,3,187,31.3,2.9,7.8,0.3,"Kruidvat Whey Protein 100% Isolate vanilla; Milk, whole 3.25%; Optimel drinkyoghurt 0% vet (per 100ml)"
+2026-05-19,lunch,13:47,13:47,3,679,35.8,22.3,78.3,3.6,"Sourdough bread; hummus; Egg, whole, raw"
