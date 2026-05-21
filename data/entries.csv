@@ -353,3 +353,25 @@ date,time,datetime,meal,food,grams,kcal,protein_g,fat_g,carbs_g,fiber_g
 2026-05-19,22:54,2026-05-19T22:54+02:00,dinner,Lemon juice (estimate),10,2,0,0,0.7,0
 2026-05-19,22:54,2026-05-19T22:54+02:00,dinner,Balsamic vinegar (estimate),10,9,0.1,0,1.7,0
 2026-05-19,22:54,2026-05-19T22:54+02:00,dinner,Dijon mustard (estimate),5,3,0.2,0.2,0.3,0.2
+2026-05-20,09:30,2026-05-20T09:30+02:00,breakfast,Kruidvat Whey Protein 100% Isolate vanilla,30,108,26,0.1,0.3,0.3
+2026-05-20,09:30,2026-05-20T09:30+02:00,breakfast,"Milk, whole 3.25%",150,92,4.7,4.9,7.2,0
+2026-05-20,09:30,2026-05-20T09:30+02:00,breakfast,Espresso (single shot),60,2,0.1,0.1,0,0
+2026-05-20,13:30,2026-05-20T13:30+02:00,lunch,tamatar paneer sandwich,625,1412,56.9,58.1,166.9,15.6
+2026-05-20,22:30,2026-05-20T22:30+02:00,dinner,"Tomato, raw",220,40,1.9,0.4,8.6,2.6
+2026-05-20,22:30,2026-05-20T22:30+02:00,dinner,"Carrot, raw",70,29,0.6,0.1,6.7,2
+2026-05-20,22:30,2026-05-20T22:30+02:00,dinner,"Onion, raw",40,16,0.4,0,3.7,0.7
+2026-05-20,22:30,2026-05-20T22:30+02:00,dinner,"Garlic, raw (estimate)",5,7,0.3,0,1.7,0.1
+2026-05-20,22:30,2026-05-20T22:30+02:00,dinner,Roasted bell pepper,55,17,0.6,0.2,3.9,0
+2026-05-20,22:30,2026-05-20T22:30+02:00,dinner,"Pearl couscous, cooked (estimate)",150,168,5.7,0.3,34.8,2.1
+2026-05-20,22:30,2026-05-20T22:30+02:00,dinner,"cucumber, raw",70,10,0.5,0.1,2.5,0.3
+2026-05-20,22:30,2026-05-20T22:30+02:00,dinner,"Tomato, raw",55,10,0.5,0.1,2.1,0.7
+2026-05-20,22:30,2026-05-20T22:30+02:00,dinner,"Onion, raw",20,8,0.2,0,1.9,0.3
+2026-05-20,22:30,2026-05-20T22:30+02:00,dinner,"Olives, pitted black/kalamata (estimate)",25,29,0.2,2.7,1.6,0.8
+2026-05-20,22:30,2026-05-20T22:30+02:00,dinner,Feta cheese (estimate),45,119,6.4,9.6,1.8,0
+2026-05-20,22:30,2026-05-20T22:30+02:00,dinner,"Egg, whole, raw",50,72,6.3,4.8,0.4,0
+2026-05-20,22:30,2026-05-20T22:30+02:00,dinner,"Arugula / rocket, raw (estimate)",15,4,0.4,0.1,0.6,0.2
+2026-05-20,22:30,2026-05-20T22:30+02:00,dinner,"Olive oil, extra virgin",12,106,0,12,0,0
+2026-05-20,22:30,2026-05-20T22:30+02:00,dinner,Lemon juice (estimate),10,2,0,0,0.7,0
+2026-05-20,22:30,2026-05-20T22:30+02:00,dinner,Balsamic vinegar (estimate),10,9,0.1,0,1.7,0
+2026-05-20,22:30,2026-05-20T22:30+02:00,dinner,Dijon mustard (estimate),5,3,0.2,0.2,0.3,0.2
+2026-05-20,22:30,2026-05-20T22:30+02:00,dinner,"Homemade banana bread, modified Natasha recipe (1 slice estimate)",100,374,7.3,21.5,40.5,2.8
