@@ -98,3 +98,4 @@ date,meal,first_time,last_time,items,kcal,protein_g,fat_g,carbs_g,fiber_g,foods
 2026-05-21,dinner,20:30,20:30,4,922,46.9,19.6,142.8,33.3,"Roti / chapati homemade estimate; Black masoor dal, cooked with tadka (home estimate); Gajar matar sabzi homemade estimate; Beetroot raita with high-protein Greek yogurt (home estimate)"
 2026-05-22,breakfast,09:30,09:30,3,257,33.6,8,11.8,0.3,"Espresso (single shot); Milk, whole 3.25%; Kruidvat Whey Protein 100% Isolate vanilla"
 2026-05-22,lunch,13:00,13:00,6,663,28.3,34.7,59.2,8.9,"Whole wheat bread, commercially prepared (USDA) × 2; green pesto (estimate) × 2; Tomato, raw; Mozzarella, fresh"
+2026-05-23,snack,13:48,13:48,1,97,10,0,0,0,Protein bar (user-provided macros)
