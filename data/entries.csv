@@ -406,4 +406,20 @@ date,time,datetime,meal,food,grams,kcal,protein_g,fat_g,carbs_g,fiber_g
 2026-05-22,13:00,2026-05-22T13:00+02:00,lunch,"Mozzarella, fresh",60,168,10.8,13.2,1.8,0
 2026-05-22,13:00,2026-05-22T13:00+02:00,lunch,"Whole wheat bread, commercially prepared (USDA)",20,50,2.5,0.7,8.5,1.2
 2026-05-22,13:00,2026-05-22T13:00+02:00,lunch,green pesto (estimate),8,38,0.4,3.6,0.6,0.2
+2026-05-23,12:30,2026-05-23T12:30+02:00,lunch,Noordertuin chili egg with sourdough (restaurant estimate),100,646,24.8,35.8,55.5,5
+2026-05-23,12:30,2026-05-23T12:30+02:00,lunch,Latte (whole milk),240,127,6.7,7,10.1,0
+2026-05-23,12:30,2026-05-23T12:30+02:00,lunch,"Cinnamon roll, bakery/cafe estimate",60,225,3.3,7.8,35.4,1.2
+2026-05-23,12:30,2026-05-23T12:30+02:00,lunch,Roze Bunker lemonade ready-to-drink estimate,300,87,0,0,21,0
 2026-05-23,13:48,2026-05-23T13:48+02:00,snack,Protein bar (user-provided macros),50,97,10,0,0,0
+2026-05-23,20:30,2026-05-23T20:30+02:00,dinner,McDonald's NL Veggie Spicy McChicken,197.9,478,18,23,48,6.2
+2026-05-23,20:30,2026-05-23T20:30+02:00,dinner,McDonald's NL Franse Frietjes Groot,150,434,5.2,21,54,5.3
+2026-05-23,20:45,2026-05-23T20:45+02:00,dessert,McDonald's NL IJshoorn vanilla soft serve cone,90.35,137,3.4,3.5,23,0.2
+2026-05-24,10:00,2026-05-24T10:00+02:00,breakfast,"Cappuccino (whole milk, home estimate)",300,148,7.7,7.8,11.5,0
+2026-05-24,12:30,2026-05-24T12:30+02:00,lunch,"Paneer paratha, large homemade (estimate)",225,675,24.8,31.5,72,6.8
+2026-05-24,12:30,2026-05-24T12:30+02:00,lunch,"Whole wheat bread, commercially prepared (USDA)",50,126,6.2,1.8,21.4,3
+2026-05-24,12:30,2026-05-24T12:30+02:00,lunch,green pesto (estimate),15,70,0.8,6.8,1.2,0.3
+2026-05-24,12:30,2026-05-24T12:30+02:00,lunch,"Tomato, raw",40,7,0.4,0.1,1.6,0.5
+2026-05-24,12:30,2026-05-24T12:30+02:00,lunch,"Mozzarella, fresh",30,84,5.4,6.6,0.9,0
+2026-05-24,20:30,2026-05-24T20:30+02:00,dinner,Restaurant AMA Flambata & Tartufo pasta (estimate),420,950,38,38,104,8
+2026-05-24,20:30,2026-05-24T20:30+02:00,dinner,Barolo red wine (estimate),150,128,0.1,0,3.9,0
+2026-05-24,23:31,2026-05-24T23:31+02:00,dessert,Zomers tiramisu ice cream cone (estimate),92,220,3.7,9,31,0.5
