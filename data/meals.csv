@@ -123,3 +123,6 @@ date,meal,first_time,last_time,items,kcal,protein_g,fat_g,carbs_g,fiber_g,foods
 2026-05-29,lunch,16:00,16:00,4,619,26.7,26.9,68,6.9,"Roti / chapati homemade estimate; Paneer bhurji homemade estimate; New York Pizza Margherita 30cm NY style; Olive oil, extra virgin"
 2026-05-29,snack,18:00,18:00,2,93,4.9,4.9,7.2,0,"Coffee, brewed (Jumbo Beste Crema); Milk, whole 3.25%"
 2026-05-29,dinner,20:30,20:30,3,899,47.8,41.5,89.4,16.2,"Whole wheat noodles, cooked (estimate); Crispy tofu/tempeh cubes for ramen (photo estimate); Creamy spicy ramen broth with vegetables (photo estimate)"
+2026-05-30,breakfast,10:00,10:00,1,74,3.9,3.9,5.8,0,"Cappuccino (whole milk, home estimate)"
+2026-05-30,lunch,13:30,13:30,3,1246,39.1,73.1,110,9.2,Paneer butter masala (restaurant estimate); Butter naan (restaurant estimate); Aloo kulcha (restaurant estimate)
+2026-05-30,dinner,20:30,20:30,7,975,45.4,49.7,83.5,5.5,"Mixed greens salad; Egg, whole, raw; Caesar dressing (home estimate); Croutons, plain (estimate); Parmesan cheese, grated (estimate); New York Pizza Margherita 30cm NY style; Olive oil, extra virgin"
