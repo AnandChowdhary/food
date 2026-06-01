@@ -126,3 +126,6 @@ date,meal,first_time,last_time,items,kcal,protein_g,fat_g,carbs_g,fiber_g,foods
 2026-05-30,breakfast,10:00,10:00,1,74,3.9,3.9,5.8,0,"Cappuccino (whole milk, home estimate)"
 2026-05-30,lunch,13:30,13:30,3,1246,39.1,73.1,110,9.2,Paneer butter masala (restaurant estimate); Butter naan (restaurant estimate); Aloo kulcha (restaurant estimate)
 2026-05-30,dinner,20:30,20:30,7,975,45.4,49.7,83.5,5.5,"Mixed greens salad; Egg, whole, raw; Caesar dressing (home estimate); Croutons, plain (estimate); Parmesan cheese, grated (estimate); New York Pizza Margherita 30cm NY style; Olive oil, extra virgin"
+2026-05-31,breakfast,09:00,09:00,2,110,26.1,0.2,0.3,0.3,Kruidvat Whey Protein 100% Isolate vanilla; Espresso (single shot)
+2026-05-31,lunch,13:00,13:00,3,550,22.6,28.4,54.3,7.2,"Vietnamese vegetarian summer roll (tofu/noodles/veg estimate); Vietnamese peanut dipping sauce (estimate); Peanuts, roasted unsalted"
+2026-05-31,dinner,22:42,22:42,4,1382,35.3,64.7,168.5,14.8,"fries (restaurant); pita bread; falafel (deep-fried); Garlic sauce, Turkish snack-bar estimate"
