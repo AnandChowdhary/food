@@ -486,3 +486,11 @@ date,time,datetime,meal,food,grams,kcal,protein_g,fat_g,carbs_g,fiber_g
 2026-05-31,22:42,2026-05-31T22:42+02:00,dinner,pita bread,100,275,9,1.2,55,2
 2026-05-31,22:42,2026-05-31T22:42+02:00,dinner,falafel (deep-fried),150,500,19.5,27,48,7.5
 2026-05-31,22:42,2026-05-31T22:42+02:00,dinner,"Garlic sauce, Turkish snack-bar estimate",40,140,0.8,14,4,0
+2026-06-01,10:44,2026-06-01T10:44+02:00,breakfast,Kruidvat Whey Protein 100% Isolate vanilla,30,108,26,0.1,0.3,0.3
+2026-06-01,10:44,2026-06-01T10:44+02:00,breakfast,Espresso (single shot),60,2,0.1,0.1,0,0
+2026-06-01,10:44,2026-06-01T10:44+02:00,breakfast,"Milk, whole 3.25%",15,9,0.5,0.5,0.7,0
+2026-06-01,15:44,2026-06-01T15:44+02:00,lunch,Vietnamese vegetarian summer roll (tofu/noodles/veg estimate),270,351,16.2,5.4,59.4,5.4
+2026-06-01,15:44,2026-06-01T15:44+02:00,lunch,Vietnamese peanut dipping sauce (estimate),52.5,210,6.8,14.7,12.6,1.6
+2026-06-01,20:36,2026-06-01T20:36+02:00,dinner,"Egg curry, homemade estimate (2 eggs + gravy)",250,330,18,22,15,3
+2026-06-01,20:36,2026-06-01T20:36+02:00,dinner,Roti / chapati homemade estimate,135,378,10.8,6.8,70.2,9.4
+2026-06-01,20:36,2026-06-01T20:36+02:00,dinner,Beetroot raita with high-protein Greek yogurt (home estimate),150,82,12.2,0.6,7.8,0.8
