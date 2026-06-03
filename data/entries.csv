@@ -494,3 +494,13 @@ date,time,datetime,meal,food,grams,kcal,protein_g,fat_g,carbs_g,fiber_g
 2026-06-01,20:36,2026-06-01T20:36+02:00,dinner,"Egg curry, homemade estimate (2 eggs + gravy)",250,330,18,22,15,3
 2026-06-01,20:36,2026-06-01T20:36+02:00,dinner,Roti / chapati homemade estimate,135,378,10.8,6.8,70.2,9.4
 2026-06-01,20:36,2026-06-01T20:36+02:00,dinner,Beetroot raita with high-protein Greek yogurt (home estimate),150,82,12.2,0.6,7.8,0.8
+2026-06-02,13:00,2026-06-02T13:00+02:00,lunch,Roti / chapati homemade estimate,135,378,10.8,6.8,70.2,9.4
+2026-06-02,13:00,2026-06-02T13:00+02:00,lunch,Beetroot raita with high-protein Greek yogurt (home estimate),150,82,12.2,0.6,7.8,0.8
+2026-06-02,13:00,2026-06-02T13:00+02:00,lunch,"Egg curry, homemade estimate (2 eggs + gravy)",250,330,18,22,15,3
+2026-06-02,13:00,2026-06-02T13:00+02:00,lunch,"green peas, cooked",80,67,4.3,0.2,12.5,4.4
+2026-06-02,13:00,2026-06-02T13:00+02:00,lunch,Turnip sabzi homemade estimate,150,105,1.8,5.2,12,3.5
+2026-06-02,15:30,2026-06-02T15:30+02:00,snack,"Cappuccino (whole milk, home estimate)",150,74,3.9,3.9,5.8,0
+2026-06-02,18:30,2026-06-02T18:30+02:00,snack,Melkunie Protein aardbei yoghurt pouch 200g,200,142,20,1.2,11.2,0
+2026-06-02,20:30,2026-06-02T20:30+02:00,dinner,Turnip sabzi homemade estimate,150,105,1.8,5.2,12,3.5
+2026-06-02,20:30,2026-06-02T20:30+02:00,dinner,Roti / chapati homemade estimate,90,252,7.2,4.5,46.8,6.3
+2026-06-02,20:30,2026-06-02T20:30+02:00,dinner,"Vietnamese summer roll filling salad, no rice paper (estimate)",160,166,10.7,3.5,22.8,3.4
