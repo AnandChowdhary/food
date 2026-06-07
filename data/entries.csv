@@ -541,3 +541,14 @@ date,time,datetime,meal,food,grams,kcal,protein_g,fat_g,carbs_g,fiber_g
 2026-06-05,12:28,2026-06-05T12:28+02:00,lunch,"Mozzarella rectangular pizza, cafeteria/restaurant estimate",285,812,34.2,32.8,94,5.7
 2026-06-05,12:28,2026-06-05T12:28+02:00,lunch,Small side salad with creamy dressing estimate,75,79,1.5,5.2,5.2,1.5
 2026-06-05,12:28,2026-06-05T12:28+02:00,lunch,Bottled lemonade lemon mint estimate,500,190,0,0,47.5,0
+2026-06-06,12:24,2026-06-06T12:24+02:00,breakfast,"Whole wheat bread, commercially prepared (USDA)",45,113,5.6,1.6,19.2,2.7
+2026-06-06,12:24,2026-06-06T12:24+02:00,breakfast,Philadelphia Original cream cheese spread (estimate),20,45,1,4.2,0.9,0
+2026-06-06,12:24,2026-06-06T12:24+02:00,breakfast,"Egg, whole, raw",50,72,6.3,4.8,0.4,0
+2026-06-06,12:24,2026-06-06T12:24+02:00,breakfast,"Milk, whole 3.25%",50,30,1.6,1.6,2.4,0
+2026-06-06,12:24,2026-06-06T12:24+02:00,breakfast,"Coffee, brewed (Jumbo Beste Crema)",200,4,0.6,0,0,0
+2026-06-06,14:44,2026-06-06T14:44+02:00,lunch,Zweifel Original Chips Paprika,87.5,466,5.2,30.6,42.9,5.2
+2026-06-06,14:44,2026-06-06T14:44+02:00,lunch,Unknown sweet drink (~50 kcal serving),100,50,0,0,12.5,0
+2026-06-06,14:44,2026-06-06T14:44+02:00,lunch,"White bread, commercially prepared (USDA estimate)",90,239,6.9,3,45.5,2.4
+2026-06-06,14:44,2026-06-06T14:44+02:00,lunch,"Egg, whole, raw",100,143,12.6,9.5,0.7,0
+2026-06-06,14:44,2026-06-06T14:44+02:00,lunch,young Gouda / young cheese (estimate),30,107,7.5,8.4,0.7,0
+2026-06-06,14:44,2026-06-06T14:44+02:00,lunch,Mayonnaise sandwich spread (estimate),10,68,0.1,7.5,0.1,0
