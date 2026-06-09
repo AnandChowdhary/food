@@ -151,3 +151,6 @@ date,meal,first_time,last_time,items,kcal,protein_g,fat_g,carbs_g,fiber_g,foods
 2026-06-06,dinner,21:00,21:00,5,1256,42.9,55.8,146,11.7,"Vegetable pizza, restaurant slice estimate; Vegetable burger, restaurant estimate; Mozzarella sticks, fried restaurant estimate; fries (restaurant); Ketchup / tomato ketchup (estimate)"
 2026-06-07,breakfast,08:34,08:34,4,339,19.2,15.9,26.9,0,"Sourdough bread; Philadelphia Original cream cheese spread (estimate); Egg, whole, raw; Cappuccino (whole milk, home estimate)"
 2026-06-07,lunch,14:46,14:46,4,792,24.8,21.9,124.8,20.4,"white rice, cooked; Chhole / chana masala, restaurant estimate; Mixed cooked vegetables, self-serve estimate; Ghirardelli milk chocolate (50 kcal piece estimate)"
+2026-06-08,breakfast,08:34,08:34,4,339,19.2,15.9,26.9,0,"Sourdough bread; Philadelphia Original cream cheese spread (estimate); Egg, whole, raw; Cappuccino (whole milk, home estimate)"
+2026-06-08,lunch,14:32,14:32,4,1022,24.3,47.1,121.5,9.4,"Pasta, cooked (estimate); green pesto (estimate); Parmesan cheese, grated (estimate); Potatoes, hash brown, home-prepared (USDA SR Legacy)"
+2026-06-08,snack,14:41,14:41,2,288,8.4,15.2,31.6,0.9,"Latte (whole milk); Chocolate cake, commercially prepared with chocolate frosting (USDA SR Legacy estimate)"
