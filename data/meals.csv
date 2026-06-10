@@ -154,3 +154,6 @@ date,meal,first_time,last_time,items,kcal,protein_g,fat_g,carbs_g,fiber_g,foods
 2026-06-08,breakfast,08:34,08:34,4,339,19.2,15.9,26.9,0,"Sourdough bread; Philadelphia Original cream cheese spread (estimate); Egg, whole, raw; Cappuccino (whole milk, home estimate)"
 2026-06-08,lunch,14:32,14:32,4,1022,24.3,47.1,121.5,9.4,"Pasta, cooked (estimate); green pesto (estimate); Parmesan cheese, grated (estimate); Potatoes, hash brown, home-prepared (USDA SR Legacy)"
 2026-06-08,snack,14:41,14:41,2,288,8.4,15.2,31.6,0.9,"Latte (whole milk); Chocolate cake, commercially prepared with chocolate frosting (USDA SR Legacy estimate)"
+2026-06-08,dinner,20:30,20:30,7,1304,64.4,55.5,108.7,7,"Cheese fondue, prepared (USDA FNDDS estimate); potato, boiled; Sourdough bread; Tomato, raw; Baby corn, raw (estimate); Pickles, cucumber dill (USDA Foundation); Merlot red wine (USDA SR Legacy)"
+2026-06-09,breakfast,09:00,09:00,5,480,21.2,19.2,55.6,1.8,"White bread, commercially prepared (USDA estimate); Egg, whole, raw; Cheddar cheese; Latte (whole milk); sugar, white"
+2026-06-09,snack,11:13,11:13,1,5,0.7,0,0,0,"Coffee, brewed (Jumbo Beste Crema)"
