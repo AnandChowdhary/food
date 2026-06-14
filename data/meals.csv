@@ -157,3 +157,13 @@ date,meal,first_time,last_time,items,kcal,protein_g,fat_g,carbs_g,fiber_g,foods
 2026-06-08,dinner,20:30,20:30,7,1304,64.4,55.5,108.7,7,"Cheese fondue, prepared (USDA FNDDS estimate); potato, boiled; Sourdough bread; Tomato, raw; Baby corn, raw (estimate); Pickles, cucumber dill (USDA Foundation); Merlot red wine (USDA SR Legacy)"
 2026-06-09,breakfast,09:00,09:00,5,480,21.2,19.2,55.6,1.8,"White bread, commercially prepared (USDA estimate); Egg, whole, raw; Cheddar cheese; Latte (whole milk); sugar, white"
 2026-06-09,snack,11:13,11:13,1,5,0.7,0,0,0,"Coffee, brewed (Jumbo Beste Crema)"
+2026-06-10,lunch,13:00,13:00,5,924,22.1,33.4,133.3,11.9,"Tibits ginger fried rice/self-serve estimate; falafel (deep-fried); Vegetable samosa, frozen air-fried estimate; Mixed cooked vegetables, self-serve estimate; Bottled lemonade lemon mint estimate"
+2026-06-10,dinner,19:00,19:00,3,1156,29.5,33.6,135.9,8.4,Restaurant vegetarian pasta main estimate; Hugo Spritz cocktail estimate; Merlot red wine (USDA SR Legacy)
+2026-06-11,breakfast,08:30,08:30,5,1108,28.9,38.3,164.7,5.7,"Croissant, butter (estimate); Corn flakes cereal, plain estimate; Milk, whole 3.25%; Orange juice, 100% (estimate); Cappuccino (whole milk, home estimate)"
+2026-06-11,lunch,13:00,13:00,2,686,16.4,29.4,85.4,7.7,"Mushroom risotto, restaurant estimate; Small side salad with creamy dressing estimate"
+2026-06-11,dinner,18:30,18:30,2,906,30.6,43.9,97,5.3,"Happy Italy Pasta Pesto (restaurant estimate); Mozzarella rectangular pizza, cafeteria/restaurant estimate"
+2026-06-12,breakfast,09:00,09:00,1,127,6.7,7,10.1,0,Latte (whole milk)
+2026-06-12,lunch,13:00,13:00,3,983,27.2,50.7,105,10.5,"Aloo paratha, homemade (estimate); Paneer paratha, large homemade (estimate); Butter, salted"
+2026-06-12,dinner,20:30,20:30,4,792,36,30,97.2,7.7,"white rice, cooked; tofu, firm; Mixed cooked vegetables, self-serve estimate; Olive oil, extra virgin"
+2026-06-13,breakfast,09:00,09:00,4,496,15.2,33.4,33.6,1.6,"Egg, whole, raw; Butter, salted; Croissant, butter (estimate); Cappuccino (whole milk, home estimate)"
+2026-06-13,lunch,13:45,13:45,12,748,61.9,18.9,86.4,17.8,"Danone HiPRO mango protein drink (25g protein bottle); Quinoa, cooked; Lentils, cooked boiled without salt; Egg, whole, raw; almonds; Mixed greens salad; Tomato, raw; cucumber, raw; greek yogurt, 2%; Lemon juice (estimate); Dijon mustard (estimate); Parmesan cheese, grated (estimate)"

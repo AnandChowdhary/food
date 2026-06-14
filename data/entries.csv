@@ -592,3 +592,44 @@ date,time,datetime,meal,food,grams,kcal,protein_g,fat_g,carbs_g,fiber_g
 2026-06-09,09:00,2026-06-09T09:00+02:00,breakfast,Latte (whole milk),250,132,7,7.2,10.5,0
 2026-06-09,09:00,2026-06-09T09:00+02:00,breakfast,"sugar, white",10,39,0,0,10,0
 2026-06-09,11:13,2026-06-09T11:13+02:00,snack,"Coffee, brewed (Jumbo Beste Crema)",240,5,0.7,0,0,0
+2026-06-10,13:00,2026-06-10T13:00+02:00,lunch,Tibits ginger fried rice/self-serve estimate,200,340,7,10,54,3
+2026-06-10,13:00,2026-06-10T13:00+02:00,lunch,falafel (deep-fried),80,266,10.4,14.4,25.6,4
+2026-06-10,13:00,2026-06-10T13:00+02:00,lunch,"Vegetable samosa, frozen air-fried estimate",45,104,2.2,4,13.9,1.1
+2026-06-10,13:00,2026-06-10T13:00+02:00,lunch,"Mixed cooked vegetables, self-serve estimate",125,100,2.5,5,11.2,3.8
+2026-06-10,13:00,2026-06-10T13:00+02:00,lunch,Bottled lemonade lemon mint estimate,300,114,0,0,28.5,0
+2026-06-10,19:00,2026-06-10T19:00+02:00,dinner,Restaurant vegetarian pasta main estimate,420,882,29.4,33.6,113.4,8.4
+2026-06-10,19:00,2026-06-10T19:00+02:00,dinner,Hugo Spritz cocktail estimate,250,150,0,0,18.8,0
+2026-06-10,19:00,2026-06-10T19:00+02:00,dinner,Merlot red wine (USDA SR Legacy),150,124,0.1,0,3.8,0
+2026-06-11,08:30,2026-06-11T08:30+02:00,breakfast,"Croissant, butter (estimate)",120,487,9.8,25.2,55,3.1
+2026-06-11,08:30,2026-06-11T08:30+02:00,breakfast,"Corn flakes cereal, plain estimate",60,214,4.5,0.2,50.4,1.8
+2026-06-11,08:30,2026-06-11T08:30+02:00,breakfast,"Milk, whole 3.25%",250,152,7.9,8.1,12,0
+2026-06-11,08:30,2026-06-11T08:30+02:00,breakfast,"Orange juice, 100% (estimate)",400,180,2.8,0.8,41.6,0.8
+2026-06-11,08:30,2026-06-11T08:30+02:00,breakfast,"Cappuccino (whole milk, home estimate)",150,74,3.9,3.9,5.8,0
+2026-06-11,13:00,2026-06-11T13:00+02:00,lunch,"Mushroom risotto, restaurant estimate",350,560,14,21,77,5.2
+2026-06-11,13:00,2026-06-11T13:00+02:00,lunch,Small side salad with creamy dressing estimate,120,126,2.4,8.4,8.4,2.4
+2026-06-11,18:30,2026-06-11T18:30+02:00,dinner,Happy Italy Pasta Pesto (restaurant estimate),210,500,13.5,27.5,50,2.5
+2026-06-11,18:30,2026-06-11T18:30+02:00,dinner,"Mozzarella rectangular pizza, cafeteria/restaurant estimate",142.5,406,17.1,16.4,47,2.9
+2026-06-12,09:00,2026-06-12T09:00+02:00,breakfast,Latte (whole milk),240,127,6.7,7,10.1,0
+2026-06-12,13:00,2026-06-12T13:00+02:00,lunch,"Aloo paratha, homemade (estimate)",150,390,10.5,13.5,57,6
+2026-06-12,13:00,2026-06-12T13:00+02:00,lunch,"Paneer paratha, large homemade (estimate)",150,450,16.5,21,48,4.5
+2026-06-12,13:00,2026-06-12T13:00+02:00,lunch,"Butter, salted",20,143,0.2,16.2,0,0
+2026-06-12,20:30,2026-06-12T20:30+02:00,dinner,"white rice, cooked",300,390,8.1,0.9,84,1.2
+2026-06-12,20:30,2026-06-12T20:30+02:00,dinner,"tofu, firm",150,216,25.9,13.1,4.2,3.5
+2026-06-12,20:30,2026-06-12T20:30+02:00,dinner,"Mixed cooked vegetables, self-serve estimate",100,80,2,4,9,3
+2026-06-12,20:30,2026-06-12T20:30+02:00,dinner,"Olive oil, extra virgin",12,106,0,12,0,0
+2026-06-13,09:00,2026-06-13T09:00+02:00,breakfast,"Egg, whole, raw",50,72,6.3,4.8,0.4,0
+2026-06-13,09:00,2026-06-13T09:00+02:00,breakfast,"Butter, salted",15,108,0.1,12.2,0,0
+2026-06-13,09:00,2026-06-13T09:00+02:00,breakfast,"Croissant, butter (estimate)",60,244,4.9,12.6,27.5,1.6
+2026-06-13,09:00,2026-06-13T09:00+02:00,breakfast,"Cappuccino (whole milk, home estimate)",150,74,3.9,3.9,5.8,0
+2026-06-13,13:45,2026-06-13T13:45+02:00,lunch,Danone HiPRO mango protein drink (25g protein bottle),300,177,24.9,1.5,16.5,0
+2026-06-13,13:45,2026-06-13T13:45+02:00,lunch,"Quinoa, cooked",145,174,6.4,2.8,30.9,4.1
+2026-06-13,13:45,2026-06-13T13:45+02:00,lunch,"Lentils, cooked boiled without salt",130,151,11.7,0.5,26.1,10.3
+2026-06-13,13:45,2026-06-13T13:45+02:00,lunch,"Egg, whole, raw",50,72,6.3,4.8,0.4,0
+2026-06-13,13:45,2026-06-13T13:45+02:00,lunch,almonds,10,58,2.1,5,2.2,1.2
+2026-06-13,13:45,2026-06-13T13:45+02:00,lunch,Mixed greens salad,40,8,0.6,0.1,1.2,0.6
+2026-06-13,13:45,2026-06-13T13:45+02:00,lunch,"Tomato, raw",80,14,0.7,0.2,3.1,1
+2026-06-13,13:45,2026-06-13T13:45+02:00,lunch,"cucumber, raw",80,12,0.6,0.1,2.9,0.4
+2026-06-13,13:45,2026-06-13T13:45+02:00,lunch,"greek yogurt, 2%",45,33,4.5,0.9,1.7,0
+2026-06-13,13:45,2026-06-13T13:45+02:00,lunch,Lemon juice (estimate),10,2,0,0,0.7,0
+2026-06-13,13:45,2026-06-13T13:45+02:00,lunch,Dijon mustard (estimate),7,5,0.3,0.3,0.4,0.2
+2026-06-13,13:45,2026-06-13T13:45+02:00,lunch,"Parmesan cheese, grated (estimate)",10,43,3.8,2.9,0.4,0
