@@ -4,7 +4,6 @@ import { parse } from "csv-parse/sync";
 
 const DATA_DIR = "./data";
 const BASE_CHART_URL = "https://quickchart.io/chart";
-const DATA_BASE_URL = "https://anandchowdhary.github.io/food/data";
 const RECENT_DAY_COUNT = 3;
 const RECENT_MEAL_COUNT = 3;
 const RECENT_RESTAURANT_COUNT = 3;
@@ -115,24 +114,11 @@ const summaryRow = (label, rows, key, digits = 1) => {
 const buildRestaurantStatsRows = (restaurants) => {
   if (!restaurants.length) return "";
 
-  const latestRestaurant = latest(restaurants);
-  const uniqueRestaurants = new Set(restaurants.map((row) => row.restaurant)).size;
   const cities = new Set(restaurants.map((row) => row.city)).size;
   const michelinStarMeals = restaurants.filter((row) => hasRating(row, /Michelin Star/i)).length;
-  const michelinListedMeals = restaurants.filter((row) => hasRating(row, /Michelin/i)).length;
-  const gaultMillauMeals = restaurants.filter((row) => hasRating(row, /Gault&Millau/i)).length;
-  const overallScores = restaurants.map((row) => row.overall);
-  const averageOverall = mean(overallScores);
 
-  return `| Restaurant meals | ${restaurants.length.toLocaleString("en-US")} |
-| Unique restaurants | ${uniqueRestaurants.toLocaleString("en-US")} |
-| Cities with restaurant meals | ${cities.toLocaleString("en-US")} |
-| Michelin star meals | ${michelinStarMeals.toLocaleString("en-US")} |
-| Michelin guide-listed meals | ${michelinListedMeals.toLocaleString("en-US")} |
-| Gault&Millau meals | ${gaultMillauMeals.toLocaleString("en-US")} |
-| Restaurant meals with overall scores | ${overallScores.filter((value) => typeof value === "number").length.toLocaleString("en-US")} |
-| Average overall restaurant score | ${fmt(averageOverall, 2)} |
-| Latest restaurant meal | ${latestRestaurant.date} - ${latestRestaurant.restaurant} |`;
+  return `| Cities with restaurant meals | ${cities.toLocaleString("en-US")} |
+| Michelin star meals | ${michelinStarMeals.toLocaleString("en-US")} |`;
 };
 
 const buildStats = ({ entries, meals, daily, restaurants }) => {
@@ -192,11 +178,7 @@ const buildRestaurants = ({ restaurants }) => {
   if (!restaurants.length) return "No restaurant meals yet.";
   const recentRestaurants = last(restaurants, RECENT_RESTAURANT_COUNT).reverse();
 
-  return `### API
-
-The restaurant meals are available as JSON at ${DATA_BASE_URL}/restaurants.json.
-
-### Latest ${RECENT_RESTAURANT_COUNT} restaurant meals
+  return `### Latest ${RECENT_RESTAURANT_COUNT} restaurant meals
 
 | Date | Occasion | Restaurant | City | Recognition | Overall | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -295,13 +277,9 @@ const buildGraphs = ({ daily }) => {
     ],
   });
 
-  return `### Calories
-
-![Chart showing calories over time](${caloriesChart})
-
-### Protein
-
-![Chart showing protein over time](${proteinChart})
+  return `| Calories | Protein |
+| --- | --- |
+| ![Chart showing calories over time](${caloriesChart}) | ![Chart showing protein over time](${proteinChart}) |
 
 ### Macros
 
