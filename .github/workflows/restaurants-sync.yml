@@ -1,13 +1,13 @@
-name: Readme CI
+name: Restaurants Sync
 
 on:
-  push:
-    branches: [main]
+  schedule:
+    - cron: "17 3 * * *"
   workflow_dispatch:
 
 jobs:
-  docs:
-    name: Update README
+  restaurants:
+    name: Update restaurants JSON and README
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -31,9 +31,10 @@ jobs:
         run: npm run generate
 
       - name: Format
-        run: npm run format
+        run: npx prettier --write README.md data/restaurants.json
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: ":pencil: Update food data and README"
+          commit_message: ":floppy_disk: Persist restaurants sheet and README"
+          file_pattern: README.md data/restaurants.json

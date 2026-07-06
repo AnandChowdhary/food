@@ -2,23 +2,33 @@
 
 This repository includes what I eat, estimated from my nutrition log.
 
-| Dataset         | CSV URL                                                | View on Flat Viewer                                                          |
-| --------------- | ------------------------------------------------------ | ---------------------------------------------------------------------------- |
-| Entries         | https://anandchowdhary.github.io/food/data/entries.csv | [View](https://flatgithub.com/AnandChowdhary/food?filename=data/entries.csv) |
-| Meals           | https://anandchowdhary.github.io/food/data/meals.csv   | [View](https://flatgithub.com/AnandChowdhary/food?filename=data/meals.csv)   |
-| Daily nutrition | https://anandchowdhary.github.io/food/data/daily.csv   | [View](https://flatgithub.com/AnandChowdhary/food?filename=data/daily.csv)   |
+| Dataset          | API URL                                                     | View on Flat Viewer                                                               |
+| ---------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Entries          | https://anandchowdhary.github.io/food/data/entries.csv      | [View](https://flatgithub.com/AnandChowdhary/food?filename=data/entries.csv)      |
+| Meals            | https://anandchowdhary.github.io/food/data/meals.csv        | [View](https://flatgithub.com/AnandChowdhary/food?filename=data/meals.csv)        |
+| Daily nutrition  | https://anandchowdhary.github.io/food/data/daily.csv        | [View](https://flatgithub.com/AnandChowdhary/food?filename=data/daily.csv)        |
+| Restaurant meals | https://anandchowdhary.github.io/food/data/restaurants.json | [View](https://flatgithub.com/AnandChowdhary/food?filename=data/restaurants.json) |
 
 ## 📊 Stats
 
 <!-- start stats -->
 
-| Metric            | Value      |
-| ----------------- | ---------- |
-| First logged day  | 2026-04-24 |
-| Latest logged day | 2026-06-29 |
-| Logged days       | 55         |
-| Food entries      | 671        |
-| Meals             | 177        |
+| Metric                               | Value                          |
+| ------------------------------------ | ------------------------------ |
+| First logged day                     | 2026-04-24                     |
+| Latest logged day                    | 2026-06-29                     |
+| Logged days                          | 55                             |
+| Food entries                         | 671                            |
+| Meals                                | 177                            |
+| Restaurant meals                     | 30                             |
+| Unique restaurants                   | 22                             |
+| Cities with restaurant meals         | 14                             |
+| Michelin star meals                  | 8                              |
+| Michelin guide-listed meals          | 9                              |
+| Gault&Millau meals                   | 6                              |
+| Restaurant meals with overall scores | 2                              |
+| Average overall restaurant score     | 2.83                           |
+| Latest restaurant meal               | 2026-07-05 - t Amsterdammertje |
 
 | Metric          | Latest day | 7-day avg | 30-day avg | Mean  | Min  | Max   |
 | --------------- | ---------- | --------- | ---------- | ----- | ---- | ----- |
@@ -28,7 +38,7 @@ This repository includes what I eat, estimated from my nutrition log.
 | Carbs (g)       | **93.9**   | 155       | 201        | 201   | 55.6 | 357   |
 | Fiber (g)       | **19.6**   | 13.8      | 19.3       | 18.2  | 1.8  | 39.7  |
 
-_Last updated: June 30, 2026_
+_Last updated: July 5, 2026_
 
 <!-- end stats -->
 
@@ -36,36 +46,41 @@ _Last updated: June 30, 2026_
 
 <!-- start recent -->
 
-### Last 7 logged days
+### Last 3 logged days
 
 | Date       | Entries | Meals | kcal  | Protein | Fat   | Carbs | Fiber |
 | ---------- | ------- | ----- | ----- | ------- | ----- | ----- | ----- |
 | 2026-06-29 | 13      | 3     | 1,292 | 94.2g   | 62.3g | 93.9g | 19.6g |
 | 2026-06-18 | 11      | 2     | 669   | 27.1g   | 31.8g | 75.8g | 5.5g  |
 | 2026-06-17 | 8       | 3     | 1,107 | 83.8g   | 40.1g | 95.2g | 2.5g  |
-| 2026-06-15 | 5       | 1     | 960   | 20g     | 37g   | 138g  | 13g   |
-| 2026-06-13 | 16      | 2     | 1,245 | 77.1g   | 52.3g | 120g  | 19.4g |
-| 2026-06-12 | 8       | 3     | 1,903 | 69.9g   | 87.6g | 212g  | 18.1g |
-| 2026-06-11 | 9       | 3     | 2,700 | 75.9g   | 112g  | 347g  | 18.7g |
 
-### Last 12 meals
+### Last 3 meals
 
-| Date       | Meal      | Foods                                                                                                                                                                                                                                                                                        | kcal | Protein |
-| ---------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------- |
-| 2026-06-29 | snack     | Danone HiPRO mango protein drink (25g protein bottle); Cashews, roasted; almonds                                                                                                                                                                                                             | 465  | 34g     |
-| 2026-06-29 | lunch     | Mixed greens salad; Beetroot, cooked; Broccoli, cooked; Burrata cheese (estimate); Honey; Dijon mustard (estimate); Garden Gourmet Crunchy Tofu Basil                                                                                                                                        | 707  | 33.6g   |
-| 2026-06-29 | breakfast | Kruidvat Whey Protein 100% Isolate vanilla; Espresso (single shot); Milk, whole 3.25%                                                                                                                                                                                                        | 120  | 26.5g   |
-| 2026-06-18 | lunch     | Rice paper wrapper, dry (estimate); tofu, firm; Carrot, raw; Mushrooms, raw (estimate); Olive oil, extra virgin; peanut butter; Soy sauce; sugar, white; Sweet chili sauce (estimate); Sesame seeds                                                                                          | 595  | 23.2g   |
-| 2026-06-18 | breakfast | Cappuccino (whole milk, home estimate)                                                                                                                                                                                                                                                       | 74   | 3.9g    |
-| 2026-06-17 | snack     | Danone HiPRO mango kwark pouch (25g protein)                                                                                                                                                                                                                                                 | 139  | 25g     |
-| 2026-06-17 | lunch     | Sourdough bread; Mozzarella, fresh; green pesto (estimate); Tomato, raw                                                                                                                                                                                                                      | 849  | 32.2g   |
-| 2026-06-17 | breakfast | Kruidvat Whey Protein 100% Isolate vanilla; Espresso (single shot); Milk, whole 3.25%                                                                                                                                                                                                        | 120  | 26.5g   |
-| 2026-06-15 | lunch     | Eazie veggie gyoza + Korean BBQ dressing (4pc estimate); Eazie vegan loempia + sweet chili sauce (2 rolls estimate); Eazie vegan samosa + chutney (2 small pieces estimate); Eazie seaweed crisps (estimate); Kombucha ginger & dragonfruit bottle (estimate)                                | 960  | 20g     |
-| 2026-06-13 | lunch     | Danone HiPRO mango protein drink (25g protein bottle); Quinoa, cooked; Lentils, cooked boiled without salt; Egg, whole, raw; almonds; Mixed greens salad; Tomato, raw; cucumber, raw; greek yogurt, 2%; Lemon juice (estimate); Dijon mustard (estimate); Parmesan cheese, grated (estimate) | 748  | 61.9g   |
-| 2026-06-13 | breakfast | Egg, whole, raw; Butter, salted; Croissant, butter (estimate); Cappuccino (whole milk, home estimate)                                                                                                                                                                                        | 496  | 15.2g   |
-| 2026-06-12 | dinner    | white rice, cooked; tofu, firm; Mixed cooked vegetables, self-serve estimate; Olive oil, extra virgin                                                                                                                                                                                        | 792  | 36g     |
+| Date       | Meal      | Foods                                                                                                                                                 | kcal | Protein |
+| ---------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------- |
+| 2026-06-29 | snack     | Danone HiPRO mango protein drink (25g protein bottle); Cashews, roasted; almonds                                                                      | 465  | 34g     |
+| 2026-06-29 | lunch     | Mixed greens salad; Beetroot, cooked; Broccoli, cooked; Burrata cheese (estimate); Honey; Dijon mustard (estimate); Garden Gourmet Crunchy Tofu Basil | 707  | 33.6g   |
+| 2026-06-29 | breakfast | Kruidvat Whey Protein 100% Isolate vanilla; Espresso (single shot); Milk, whole 3.25%                                                                 | 120  | 26.5g   |
 
 <!-- end recent -->
+
+## 🍴 Restaurant meals
+
+<!-- start restaurants -->
+
+### API
+
+The restaurant meals are available as JSON at https://anandchowdhary.github.io/food/data/restaurants.json.
+
+### Latest 3 restaurant meals
+
+| Date       | Occasion                     | Restaurant                  | City                | Recognition     | Overall | Notes |
+| ---------- | ---------------------------- | --------------------------- | ------------------- | --------------- | ------- | ----- |
+| 2026-07-05 | Weekend before Anand US trip | t Amsterdammertje           | Loenen aan de Vecht | ✴︎ Michelin Star |         |       |
+| 2026-06-09 | Swiss Alps trip              | Elisa, Grandhotel Giessbach | Giessbach           |                 |         |       |
+| 2026-06-05 | Swiss Alps trip              | Brasserie Belvedere         | Wengen              |                 |         |       |
+
+<!-- end restaurants -->
 
 ## 📈 Graphs
 

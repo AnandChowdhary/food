@@ -5,9 +5,10 @@
   "type": "module",
   "description": "Public food log data and generated README.",
   "scripts": {
+    "export:restaurants": "node scripts/export-restaurants.mjs",
     "generate": "node generate-readme.mjs",
-    "format": "prettier --write README.md generate-readme.mjs .github/workflows/readme-ci.yml package.json .prettierrc.json",
-    "check": "npm run generate && npm run format && prettier --check README.md generate-readme.mjs .github/workflows/readme-ci.yml package.json .prettierrc.json"
+    "format": "prettier --write README.md generate-readme.mjs scripts/export-restaurants.mjs .github/workflows/*.yml package.json .prettierrc.json data/restaurants.json",
+    "check": "npm run export:restaurants && npm run generate && npm run format && prettier --check README.md generate-readme.mjs scripts/export-restaurants.mjs .github/workflows/*.yml package.json .prettierrc.json data/restaurants.json"
   },
   "dependencies": {
     "csv-parse": "^6.2.1"
