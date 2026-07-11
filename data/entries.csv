@@ -684,3 +684,7 @@ date,time,datetime,meal,food,grams,kcal,protein_g,fat_g,carbs_g,fiber_g
 2026-07-06,13:00,2026-07-06T13:00+02:00,lunch,Mixed greens salad,30,6,0.5,0.1,0.9,0.5
 2026-07-06,13:00,2026-07-06T13:00+02:00,lunch,"Homemade beetroot sauce (estimate, no oil)",40,20,0.6,0.1,4.2,0.8
 2026-07-06,15:00,2026-07-06T15:00+02:00,snack,"Coffee, brewed (Jumbo Beste Crema)",240,5,0.7,0,0,0
+2026-07-10,15:47,2026-07-10T15:47+02:00,snack,"Honey Bunches of Oats, honey roasted (USDA)",45,180,3.2,2.5,36.5,1.9
+2026-07-10,15:47,2026-07-10T15:47+02:00,snack,Pumpkin seed granola (generic photo estimate),30,140,3.4,5.5,19.8,2.5
+2026-07-10,15:47,2026-07-10T15:47+02:00,snack,"Milk, whole 3.25%",206,126,6.5,6.7,9.9,0
+2026-07-10,21:18,2026-07-10T21:18+02:00,lunch,"Desi Pizza House Achari Paneer Pizza, small (photo estimate)",310,760,31,31.9,88,5
