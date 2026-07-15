@@ -12,7 +12,7 @@ date,meal,first_time,last_time,items,kcal,protein_g,fat_g,carbs_g,fiber_g,foods
 2026-04-27,snack,18:30,18:30,1,248,8.9,8.9,35.5,0,"Starbucks pistachio latte/macchiato (tall, whole milk)"
 2026-04-27,dinner,20:23,20:23,3,808,46,27.3,98.4,6,"moong dal khichdi (with ghee); paneer; greek yogurt, 2%"
 2026-04-28,breakfast,09:28,09:28,3,107,6.1,6,7.7,0,"Latte (whole milk); Egg, whole, raw; Milk, whole 3.25%"
-2026-04-28,lunch,10:38,10:38,11,734,29.3,37.4,69.5,1.8,"Sourdough bread; Avocado, raw; hummus; Olive oil, extra virgin; Roasted bell pepper; Egg, whole, raw; Cheddar cheese; Butter, salted; Pancake, buttermilk whole-wheat (restaurant); Maple syrup; Blueberry compote"
+2026-04-28,lunch,10:38,10:38,11,734,29.3,37.4,69.5,5.8,"Sourdough bread; Avocado, raw; hummus; Olive oil, extra virgin; Roasted bell pepper; Egg, whole, raw; Cheddar cheese; Butter, salted; Pancake, buttermilk whole-wheat (restaurant); Maple syrup; Blueberry compote"
 2026-04-28,snack,11:38,13:05,4,298,36.3,9.7,18.8,1,"whey isolate protein powder; Milk, whole 3.25%; Strawberry, raw; Latte (whole milk)"
 2026-04-28,dinner,20:38,20:38,1,549,36,39.4,20.2,1.9,Paneer mushroom broccoli tikka w/ mint-coriander yogurt dip (home recipe)
 2026-04-29,snack,08:12,21:00,6,698,22.8,36.4,69.2,2.5,"Kruidvat 100% Pure Whey strawberry; Milk, whole 3.25% × 2; strawberries, fresh; Lay's Bugles cheese; Dark chocolate (70%)"
@@ -23,12 +23,12 @@ date,meal,first_time,last_time,items,kcal,protein_g,fat_g,carbs_g,fiber_g,foods
 2026-04-30,snack,14:30,22:00,5,687,37,26.4,75.2,8,"Kruidvat 100% Pure Whey strawberry; Milk, whole 3.25%; Espresso (single shot); Macaroon cookie (estimate); Salted popcorn, store-bought bag (estimate)"
 2026-04-30,dinner,19:04,19:04,4,600,32.5,28.7,53.8,8.2,"Mixed greens salad; Goat cheese, soft (estimate); Beetroot, cooked; Vegetarian lasagna w/ tofu mozzarella and vegetables (estimate)"
 2026-05-01,breakfast,11:43,11:43,2,326,50.7,6.9,15.2,0,"Kruidvat 100% Pure Whey strawberry; Milk, whole 3.25%"
-2026-05-01,lunch,12:18,12:35,6,1311,57,53.9,150.1,17.2,"Mexican paneer burrito (YFL homemade); white rice, cooked; paneer; Mexican black bean filling (estimate); Corn tomato onion salsa (estimate); Avocado, raw"
+2026-05-01,lunch,12:18,12:35,6,1311,57,53.9,150.1,20.9,"Mexican paneer burrito (YFL homemade); white rice, cooked; paneer; Mexican black bean filling (estimate); Corn tomato onion salsa (estimate); Avocado, raw"
 2026-05-01,snack,15:20,15:20,1,47,0.3,0.2,12.6,2.2,"Apple, raw"
 2026-05-01,dinner,17:53,21:05,6,582,26.3,36.9,39.2,7.1,"Mixed greens salad; Beetroot, cooked; Goat cheese, soft (estimate); Walnuts; Olive oil, extra virgin; Vegetarian lasagna w/ tofu mozzarella and vegetables (estimate)"
 2026-05-02,brunch,12:05,12:05,3,653,57,24.1,52.4,5,"Kruidvat 100% Pure Whey strawberry; Milk, whole 3.25%; Vegetarian lasagna w/ tofu mozzarella and vegetables (estimate)"
 2026-05-02,snack,18:29,23:58,9,941,37.8,29.8,77.4,1.9,"Sourdough bread; Goat cheese, soft (estimate); young Gouda / young cheese (estimate); plain crackers (estimate); chipotle creamy dip (estimate); green pesto (estimate); birthday cake slice (estimate); beer lager (estimate); Protein bar (user-provided macros)"
-2026-05-03,breakfast,10:27,10:27,6,916,28,53.4,83.2,3.4,"Croissant, butter (estimate); Avocado, raw; Egg, whole, raw; Orange juice, 100% (estimate); Latte (whole milk); Chili oil (estimate)"
+2026-05-03,breakfast,10:27,10:27,6,916,28,53.3,83.2,7.4,"Croissant, butter (estimate); Avocado, raw; Egg, whole, raw; Orange juice, 100% (estimate); Latte (whole milk); Chili oil (estimate)"
 2026-05-03,lunch,13:52,13:52,3,967,25.8,53,97.4,9.7,"Paneer paratha, large homemade (estimate); Aloo paratha, homemade (estimate); Butter, salted"
 2026-05-03,snack,20:35,21:58,3,826,11.8,40.8,104.7,9.9,"Cinema popcorn, medium tub (whole portion estimate); Cinema nachos with salsa (whole portion estimate); Oreo Crunchy Bites Dipped milk chocolate (110g pack)"
 2026-05-04,breakfast,10:33,10:33,2,326,50.7,6.9,15.2,0,"Kruidvat 100% Pure Whey strawberry; Milk, whole 3.25%"
@@ -49,7 +49,7 @@ date,meal,first_time,last_time,items,kcal,protein_g,fat_g,carbs_g,fiber_g,foods
 2026-05-08,lunch,13:30,13:30,2,1620,47,87,165,8,Happy Italy Pasta Pesto (restaurant estimate); Happy Italy Cheesy Garlic Bread (restaurant estimate)
 2026-05-08,dinner,20:30,20:30,3,632,13,27,82,10.5,Taco Mundo Nachos with Salsas (restaurant estimate); Taco Mundo Street Tacos Veggie (restaurant estimate); Coca-Cola Zero can 330ml
 2026-05-09,breakfast,12:45,12:45,1,74,3.9,3.9,5.8,0,"Cappuccino (whole milk, home estimate)"
-2026-05-09,lunch,14:27,14:27,10,1878,65,90.3,196,4.3,"Sourdough bread; young Gouda / young cheese (estimate); Eiersalade / egg salad spread (estimate); Avocado, raw; Mixed greens salad; Kaassoufflé, fried Dutch cheese pastry (estimate); Sweet chili sauce (estimate); Mini custard fruit tartlet (estimate); Creamy cucumber/coleslaw salad (estimate); Orange juice, 100% (estimate)"
+2026-05-09,lunch,14:27,14:27,10,1878,65,90.3,196,8.3,"Sourdough bread; young Gouda / young cheese (estimate); Eiersalade / egg salad spread (estimate); Avocado, raw; Mixed greens salad; Kaassoufflé, fried Dutch cheese pastry (estimate); Sweet chili sauce (estimate); Mini custard fruit tartlet (estimate); Creamy cucumber/coleslaw salad (estimate); Orange juice, 100% (estimate)"
 2026-05-09,snack,17:03,21:35,3,513,25.6,11.7,52.9,2.1,"Danone HiPRO mango protein drink (25g protein bottle); Aperol spritz (standard cocktail estimate); Savoury banana chips, generic estimate"
 2026-05-09,dinner,21:30,21:45,2,464,18.4,15.5,62.7,1.2,"Domino's Caprese pizza 25cm Classic, no crust (estimate); Dal chawal"
 2026-05-10,breakfast,09:30,09:30,1,127,6.7,7,10.1,0,Latte (whole milk)
@@ -78,11 +78,11 @@ date,meal,first_time,last_time,items,kcal,protein_g,fat_g,carbs_g,fiber_g,foods
 2026-05-16,breakfast,10:00,10:00,1,74,3.9,3.9,5.8,0,"Cappuccino (whole milk, home estimate)"
 2026-05-16,lunch,13:30,13:30,5,894,44.3,35.3,98.2,11.1,"Pasta, cooked (estimate); green peas, cooked; Egg, whole, raw; Parmesan cheese, grated (estimate); Olive oil, extra virgin"
 2026-05-16,dinner,20:30,20:30,6,945,21.2,25,158.5,8.3,Shabu to Go sweet tamago nigiri (estimate); Shabu to Go avocado maki (estimate); Shabu to Go veggie kappa roll (estimate); Shabu to Go kappa maki (estimate); Shabu to Go tamago maki (estimate); Shabu to Go Japanese veggie spring roll (estimate)
-2026-05-17,brunch,11:30,11:30,6,994,31.1,58,91.2,2.8,"Sourdough bread; Avocado, raw; Egg, whole, raw; Olive oil, extra virgin; Latte (whole milk); Homemade banana bread, modified Natasha recipe (1 slice estimate)"
+2026-05-17,brunch,11:30,11:30,6,994,31.1,57.9,91.3,10.3,"Sourdough bread; Avocado, raw; Egg, whole, raw; Olive oil, extra virgin; Latte (whole milk); Homemade banana bread, modified Natasha recipe (1 slice estimate)"
 2026-05-17,snack,16:00,16:00,3,947,23.5,41.3,120.2,4.4,"IKEA FESTLIGT potato crisps sour cream & onion; greek yogurt, non-fat; Apple, raw"
 2026-05-17,dinner,20:30,20:30,9,838,42.6,30,82.1,9.1,"Pasta, cooked (estimate); Zucchini, cooked (estimate); tofu, firm; Sun-dried tomatoes in oil, drained (estimate); Burrata cheese (estimate); Parmesan cheese, grated (estimate); Riesling wine; Cranberry juice cocktail (estimate); Peach, fresh"
 2026-05-18,breakfast,09:53,09:53,3,202,30.8,5.1,7.5,0.3,"Kruidvat Whey Protein 100% Isolate vanilla; Espresso (single shot); Milk, whole 3.25%"
-2026-05-18,lunch,11:57,11:57,5,753,41.6,47.1,50.5,9.5,"Whole wheat bread, commercially prepared (USDA); Avocado, raw; tofu, firm; Olive oil, extra virgin; Pumpkin seeds, roasted unsalted (USDA)"
+2026-05-18,lunch,11:57,11:57,5,753,41.6,47.1,50.5,14.5,"Whole wheat bread, commercially prepared (USDA); Avocado, raw; tofu, firm; Olive oil, extra virgin; Pumpkin seeds, roasted unsalted (USDA)"
 2026-05-18,snack,16:38,16:40,2,216,23.9,5.1,17,0,"Melkunie Protein aardbei yoghurt pouch 200g; Cappuccino (whole milk, home estimate)"
 2026-05-18,dinner,19:43,19:43,8,593,22.6,14.2,93.2,5.2,"Shabu to Go sweet tamago nigiri (estimate); Shabu to Go kappa maki (estimate); Shabu to Go tamago maki (estimate); Pasta, cooked (estimate); green peas, cooked; Egg, whole, raw; Parmesan cheese, grated (estimate); Olive oil, extra virgin"
 2026-05-19,breakfast,09:58,09:58,1,127,6.7,7,10.1,0,Latte (whole milk)
@@ -109,7 +109,7 @@ date,meal,first_time,last_time,items,kcal,protein_g,fat_g,carbs_g,fiber_g,foods
 2026-05-25,lunch,16:31,16:31,4,826,37.4,32.6,97.4,13.8,"Egg curry, homemade estimate (2 eggs + gravy); toor dal (yellow), cooked with tadka; Roti / chapati homemade estimate; Sweet lassi (restaurant estimate)"
 2026-05-25,dinner,19:30,19:30,3,899,47.8,41.5,89.4,16.2,"Whole wheat noodles, cooked (estimate); Crispy tofu/tempeh cubes for ramen (photo estimate); Creamy spicy ramen broth with vegetables (photo estimate)"
 2026-05-25,snack,21:30,21:30,2,490,22.3,20.7,46.1,1.3,"Kurkure Masala Munch crisps India (₹20 pack estimate); greek yogurt, non-fat"
-2026-05-26,lunch,15:18,15:18,10,1078,40.5,42.6,135.3,14.7,"Poke rice / sushi-style seasoned cooked rice (estimate); Tiba Tempeh Sweet Chilli Pieces 200g; edamame, shelled, cooked; Avocado, raw; Mango, raw; Poke sauce, creamy/sweet estimate; Soy sauce; Sweet chili sauce (estimate); Sesame seeds; Savoury banana chips, generic estimate"
+2026-05-26,lunch,15:18,15:18,10,1078,40.5,42.6,135.4,18,"Poke rice / sushi-style seasoned cooked rice (estimate); Tiba Tempeh Sweet Chilli Pieces 200g; edamame, shelled, cooked; Avocado, raw; Mango, raw; Poke sauce, creamy/sweet estimate; Soy sauce; Sweet chili sauce (estimate); Sesame seeds; Savoury banana chips, generic estimate"
 2026-05-26,snack,17:48,17:48,1,168,20.1,3.6,13.2,0,Starbucks Protein Drink with Coffee Caramel Hazelnut 330ml
 2026-05-26,dinner,20:30,20:30,2,635,29,23,74,2.8,Curd rice with high-protein Greek yogurt (South Indian home estimate); Fried South Indian papad / appalam (estimate)
 2026-05-27,lunch,16:09,16:09,2,760,31.8,36.8,77.7,11.2,Roti / chapati homemade estimate; Paneer bhurji homemade estimate
@@ -136,13 +136,13 @@ date,meal,first_time,last_time,items,kcal,protein_g,fat_g,carbs_g,fiber_g,foods
 2026-06-02,snack,15:30,18:30,2,216,23.9,5.1,17,0,"Cappuccino (whole milk, home estimate); Melkunie Protein aardbei yoghurt pouch 200g"
 2026-06-02,dinner,20:30,20:30,3,523,19.7,13.3,81.6,13.2,"Turnip sabzi homemade estimate; Roti / chapati homemade estimate; Vietnamese summer roll filling salad, no rice paper (estimate)"
 2026-06-03,breakfast,11:36,11:36,2,117,26.5,0.6,1,0.3,"Kruidvat Whey Protein 100% Isolate vanilla; Milk, whole 3.25%"
-2026-06-03,lunch,17:34,17:34,9,857,37.7,31.2,114.2,6.3,"Poke rice / sushi-style seasoned cooked rice (estimate); Avocado, raw; Mango, raw; edamame, shelled, cooked; Air-fried tempeh (home estimate); cucumber, raw; Sweet chili sauce (estimate); Poke sauce, creamy/sweet estimate; Sesame seeds"
+2026-06-03,lunch,17:34,17:34,9,857,37.7,31.2,114.2,9.7,"Poke rice / sushi-style seasoned cooked rice (estimate); Avocado, raw; Mango, raw; edamame, shelled, cooked; Air-fried tempeh (home estimate); cucumber, raw; Sweet chili sauce (estimate); Poke sauce, creamy/sweet estimate; Sesame seeds"
 2026-06-03,snack,18:07,18:08,5,315,25.1,14.7,21,2.2,"Melkunie Protein aardbei yoghurt pouch 200g; Peanuts, roasted unsalted; Cashews, roasted; almonds; Bhujiya / bhujia namkeen (estimate)"
 2026-06-03,dinner,20:30,20:30,3,764,26.6,21.1,119,20.2,"Roti / chapati homemade estimate; toor dal (yellow), cooked with tadka; Baingan sabzi homemade estimate"
 2026-06-04,breakfast,10:44,10:44,2,78,4,4.1,5.9,0,"Milk, whole 3.25%; Espresso (single shot)"
 2026-06-04,lunch,14:28,14:28,3,764,26.6,21.1,119,20.2,"Roti / chapati homemade estimate; toor dal (yellow), cooked with tadka; Baingan sabzi homemade estimate"
 2026-06-04,snack,16:35,16:35,1,168,20.1,3.6,13.2,0,Starbucks Protein Drink with Coffee Caramel Hazelnut 330ml
-2026-06-04,dinner,20:30,20:30,7,666,19.5,33,74.7,5,"Tomato, raw; Roasted bell pepper; Carrot, raw; Olive oil, extra virgin; Sourdough bread; Avocado, raw; Egg, whole, raw"
+2026-06-04,dinner,20:30,20:30,7,666,19.5,33,74.7,10,"Tomato, raw; Roasted bell pepper; Carrot, raw; Olive oil, extra virgin; Sourdough bread; Avocado, raw; Egg, whole, raw"
 2026-06-05,breakfast,11:45,11:45,2,934,26.8,42.9,104.6,10.9,Burger King NL Crunchy Chicken Deluxe burger (official Sanity); Burger King NL King Fries Large / Thick Cut Fries Large (official Sanity)
 2026-06-05,lunch,12:28,12:28,3,1081,35.7,38,146.8,7.2,"Mozzarella rectangular pizza, cafeteria/restaurant estimate; Small side salad with creamy dressing estimate; Bottled lemonade lemon mint estimate"
 2026-06-06,breakfast,12:24,12:24,5,265,15.1,12.1,22.9,2.7,"Whole wheat bread, commercially prepared (USDA); Philadelphia Original cream cheese spread (estimate); Egg, whole, raw; Milk, whole 3.25%; Coffee, brewed (Jumbo Beste Crema)"
@@ -184,3 +184,6 @@ date,meal,first_time,last_time,items,kcal,protein_g,fat_g,carbs_g,fiber_g,foods
 2026-07-13,breakfast,18:25,18:25,3,113,1.3,1.7,25.1,4.4,"Coffee, brewed (Jumbo Beste Crema); Liquid coffee creamer, original; Apple, raw"
 2026-07-13,lunch,22:15,22:15,1,525,20.3,38.5,21,3.5,Super Bao D14 stir-fried eggs with tomatoes (estimate)
 2026-07-13,snack,23:54,23:54,1,80,1,4,10,0,LesserEvil Space Balls Real Organic Cheddar 17g bag
+2026-07-14,dinner,06:31,06:31,8,817,25,30.1,120.9,20.7,"Roti / chapati homemade estimate; moong dal khichdi (with ghee); Cauliflower, cooked; green peas, cooked; Olive oil, extra virgin; Avocado, raw; cucumber, raw; Tomato, raw"
+2026-07-14,breakfast,18:23,18:23,6,572,22,33.1,52.4,12.7,"Whole wheat bread, commercially prepared (USDA); Avocado, raw; peanut butter; Everything bagel seasoning (estimate); Coffee, brewed (Jumbo Beste Crema); Liquid coffee creamer, original"
+2026-07-14,lunch,21:41,21:41,7,953,34.7,45.8,93.5,1.7,"Sourdough bread; Mozzarella, fresh; green pesto (estimate); Olive oil, extra virgin; Balsamic vinegar (estimate); Tomato, raw; Mixed greens salad"
