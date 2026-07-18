@@ -281,10 +281,10 @@
     "restaurant": "Kasteel Heemstede",
     "city": "Houten",
     "ratings": "✴︎ Michelin Star",
-    "food": 1,
-    "service": 1,
-    "vibe": 1,
-    "overall": 1,
+    "food": null,
+    "service": null,
+    "vibe": null,
+    "overall": null,
     "notes": "Sukriti: 4.6/5"
   },
   {
