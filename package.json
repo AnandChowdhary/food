@@ -11,7 +11,7 @@
     "check": "npm run export:restaurants && npm run generate && npm run format && prettier --check README.md generate-readme.mjs scripts/export-restaurants.mjs .github/workflows/*.yml package.json .prettierrc.json data/restaurants.json"
   },
   "dependencies": {
-    "csv-parse": "^6.2.1"
+    "csv-parse": "^7.0.2"
   },
   "devDependencies": {
     "prettier": "^3.8.3"
