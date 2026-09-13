@@ -20,8 +20,8 @@ This repository includes what I eat, estimated from my nutrition log.
 | Logged days                  | 61         |
 | Food entries                 | 728        |
 | Meals                        | 196        |
-| Cities with restaurant meals | 14         |
-| Michelin star meals          | 8          |
+| Cities with restaurant meals | 15         |
+| Michelin star meals          | 9          |
 
 | Metric          | Latest day | 7-day avg | 30-day avg | Mean  | Min  | Max   |
 | --------------- | ---------- | --------- | ---------- | ----- | ---- | ----- |
@@ -31,7 +31,7 @@ This repository includes what I eat, estimated from my nutrition log.
 | Carbs (g)       | **295**    | 171       | 196        | 199   | 55.6 | 357   |
 | Fiber (g)       | **34**     | 20.6      | 19.6       | 19.1  | 1.8  | 39.7  |
 
-_Last updated: July 16, 2026_
+_Last updated: September 12, 2026_
 
 <!-- end stats -->
 
@@ -65,9 +65,9 @@ _Last updated: July 16, 2026_
 
 | Date       | Occasion                     | Restaurant                  | City                | Recognition     | Overall | Notes |
 | ---------- | ---------------------------- | --------------------------- | ------------------- | --------------- | ------- | ----- |
+| 2026-09-12 | Dating Anniversary           | Hytra Restaurant & Bar      | Athens              | ✴︎ Michelin Star |         |       |
 | 2026-07-05 | Weekend before Anand US trip | t Amsterdammertje           | Loenen aan de Vecht | ✴︎ Michelin Star |         |       |
 | 2026-06-09 | Swiss Alps trip              | Elisa, Grandhotel Giessbach | Giessbach           |                 |         |       |
-| 2026-06-05 | Swiss Alps trip              | Brasserie Belvedere         | Wengen              |                 |         |       |
 
 <!-- end restaurants -->
 
